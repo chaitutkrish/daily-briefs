@@ -1,16 +1,58 @@
 AI DAILY BRIEF — April 19, 2026
-(Fallback mode — add ANTHROPIC_API_KEY secret to GitHub to enable Claude-written briefs)
 
-SCRAPED SOURCES TODAY:
-SOURCE: Anthropic News
-URL: https://www.anthropic.com/news
-Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries support@anthropic.com Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world&#x27;s most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here&#x27;s what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title Apr 17, 2026 Product Introducing Claude Design by Anthropic Labs Apr 16, 2026 Product Introducing Claude Opus 4.7 Apr 14, 2026 Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors Apr 6, 2026 Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute Mar 31, 2026 Announcements Australian government and Anthr
+OPENING:
+Anthropic just dropped a one-two punch that changes the game for both developers and creators. Three days ago, Claude Opus 4.7 landed with serious upgrades to coding, agents, and multi-step reasoning — and yesterday, they unveiled Claude Design, a brand new tool that lets you collaborate with AI to create polished visual work like slides, prototypes, and one-pagers. This is Anthropic saying: we're not just building a chatbot, we're building a creative partner. Meanwhile, Meta quietly announced "Muse Spark" — their move toward what they're calling "personal superintelligence." That phrase alone is worth unpacking.
 
+SECTION: Agentic AI and Coding
 
-SOURCE: Anthropic Research
-URL: https://www.anthropic.com/research
-Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes. Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the re
+Claude Opus 4.7 brings "stronger performance across coding, agents, vision, and multi-step tasks" — Anthropic is explicitly positioning this as the model for serious work, not just chat. The emphasis on "thoroughness and consistency" signals they're going after the agentic use case: AI that can run tasks over time without losing the plot. This is a 60-second Short waiting to happen — show what "multi-step reasoning" actually looks like in practice with a live demo.
+Source: https://www.anthropic.com/news
 
-To enable full AI-written briefings:
-1. Go to your GitHub repo → Settings → Secrets → Actions
-2. Add secret: ANTHROPIC_API_KEY = your key from console.anthropic.com
+Google Colab just launched "Learn Mode" — described as a personal coding tutor built into the notebook. This is Google saying: we'll teach you to code while you code. Huge for the "learn AI skills" audience.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Creator Tools
+
+Claude Design by Anthropic Labs is the big creator story. It's a new product for making "designs, prototypes, slides, one-pagers" — essentially, Claude as your visual collaborator. This is not just image generation; it's structured visual output for business and creative work. If you make content about AI productivity or creative workflows, this is priority one.
+Source: https://www.anthropic.com/news
+
+SECTION: AI Video and Image Tools
+
+Google's Gemini app can now generate "interactive simulations and models" alongside personalized images. That's a step beyond static image generation — we're talking dynamic, explorable visuals. Worth a Short exploring what "interactive simulations" actually means in practice.
+Source: https://blog.google/technology/ai/
+
+Meta's SAM 3.1 (Segment Anything Model) now offers "faster and more accessible real-time video detection and tracking with multiplexing and global reasoning." This is the tech behind instant object selection and tracking in video — a big deal for editors and visual effects creators.
+Source: https://ai.meta.com/blog/
+
+SECTION: New Model Releases and Features
+
+Gemma 4 from Google: "Byte for byte, the most capable open models." Google is pushing hard on open-weight models that compete with closed systems. If you cover open source AI, this is the headline.
+Source: https://blog.google/technology/ai/
+
+Voxtral TTS from Mistral: A "frontier, open-weights text-to-speech model" that's fast, instantly adaptable, and produces lifelike speech for voice agents. This is Mistral's play into audio AI — and it's open weights, meaning developers can build on it freely.
+Source: https://mistral.ai/news/
+
+SECTION: AI Productivity and Business Tools
+
+Meta's "Muse Spark: Scaling Towards Personal Superintelligence" — the name alone is provocative. Meta is framing this as AI that's deeply personalized and scales with you. The blog post pairs it with a piece on "how we build and test our most advanced AI," emphasizing reliability, security, and user protections. This is Meta saying: we're building powerful, personal AI — and we know you're worried about safety.
+Source: https://ai.meta.com/blog/
+
+Project Glasswing from Anthropic is a coalition (Amazon, Apple, Google, Microsoft, NVIDIA, and more) focused on securing "the world's most critical software." This is AI companies teaming up on infrastructure security — not flashy, but foundational.
+Source: https://www.anthropic.com/news
+
+TODAY'S PRIORITY
+Claude Design. This is the first time Anthropic has released a dedicated visual creation tool — not a chatbot, not a coding assistant, but a design collaborator. It's brand new (yesterday), it's differentiated, and it's perfect for a "first look" video that shows what it can actually do. The hook writes itself: "Anthropic just launched an AI design tool. Here's what it made in 60 seconds."
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Claude Design: Anthropic's New AI for Slides, Prototypes, and Visual Work — First Look"
+Hook: "Anthropic just dropped a design tool. I made a pitch deck in 60 seconds."
+Why it works: It's brand new, visually demonstrable, and positions you as first-to-cover.
+
+2. "What is 'Personal Superintelligence'? Meta's Muse Spark Explained"
+Hook: "Meta just used the phrase 'personal superintelligence.' Should you be excited — or nervous?"
+Why it works: The name is provocative, the concept is fuzzy, and your audience wants to know what it means.
+
+3. "Claude Opus 4.7: The AI Model Built for Agents and Real Work"
+Hook: "Claude's new model is built for multi-step tasks. Here's what that actually looks like."
+Why it works: Agentic AI is the next frontier — this lets you explain and demo in one.

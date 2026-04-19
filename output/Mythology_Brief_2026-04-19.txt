@@ -1,20 +1,158 @@
 MYTHOLOGY DAILY BRIEF — April 19, 2026
-(Fallback mode — add ANTHROPIC_API_KEY secret to GitHub to enable Claude-written briefs)
 
-PRIORITY TODAY: Indian Mythology
+---
 
-TOP RECURRING HIGH-INTEREST THEMES:
-- Karna (Mahabharata) — tragic hero, loyalty, identity
-- Draupadi's humiliation — justice, dharma, divine intervention
-- Shiva as destroyer and creator — duality, cosmic balance
-- Arjuna's crisis in the Bhagavad Gita — duty vs emotion
-- Krishna's Vishwaroopa — the moment of revelation
+OPENING
 
-CROSS-MYTH COMPARISONS (high-interest):
-- Thunder gods: Indra (Rigveda) + Zeus (Iliad) + Thor (Poetic Edda)
-- Flood myths: Manu (Shatapatha Brahmana) + Noah + Deucalion (Hesiod)
-- Trickster figures: Narada + Loki (Prose Edda) + Hermes (Homeric Hymns)
+Today, tell the story of Karna removing his own armor. Not in battle — but in full knowledge that it would mean his death. Indra, king of the gods, came disguised as a beggar to Karna, the greatest giver who ever lived, and asked for the one thing that made him immortal: the golden armor fused to his skin since birth. Karna knew exactly who stood before him. He knew what would happen. He smiled — and cut the armor from his own body with a blade. This is mythology at its most devastating: a man choosing his reputation over his life. The greatest hero of the Mahabharata is not a Pandava. And that matters.
 
-To enable full Claude-written briefings:
-1. Go to your GitHub repo → Settings → Secrets → Actions
-2. Add secret: ANTHROPIC_API_KEY = your key from console.anthropic.com
+---
+
+SECTION: Indian Mythology — Tragic Heroes
+
+KARNA — THE ARMOR SACRIFICE
+Karna was born with divine armor (Kavach) and earrings (Kundal) fused to his flesh — gifts from his father, the Sun God Surya. They made him invincible. But Karna had a vow: he would never refuse anyone who came to him at dawn asking for charity. Indra knew this. Disguised as a brahmin, Indra asked for the armor. Karna, recognizing the god, did not hesitate. He sliced the armor from his own body, blood streaming, and handed it over with a smile. Surya had warned him. He did it anyway. His identity — as the ultimate giver — mattered more than survival.
+
+Source tradition: Mahabharata, Vana Parva and Udyoga Parva
+Why it works: Sacrifice content hits hard. But this isn't sacrifice for victory — it's sacrifice knowing you'll lose. That inversion is devastating.
+Hook suggestion: "He knew the man asking was a god in disguise. He knew saying yes meant death. He smiled and said yes anyway."
+Reference: https://www.sacred-texts.com/hin/m03/index.htm
+
+ABHIMANYU — THE BOY WHO ENTERED BUT COULDN'T EXIT
+Abhimanyu learned how to break into the Chakravyuha — the deadly spiral battle formation — while still in his mother's womb. He heard his father Arjuna explaining it. But Subhadra fell asleep before Arjuna explained how to exit. Years later, at age sixteen, Abhimanyu entered the formation alone when the Pandava army was outmatched. He broke through six layers. He killed warriors three times his age. Then he was trapped, surrounded, and seven great warriors broke the rules of combat to kill him together. He died fighting with a broken chariot wheel as his final weapon.
+
+Source tradition: Mahabharata, Drona Parva
+Why it works: Teenage hero. Impossible odds. Knowledge that was incomplete. The tragedy is structural — he was doomed by a story told before he was born.
+Hook suggestion: "He learned to enter the deadliest formation in history — but his mother fell asleep before he learned how to escape."
+Reference: https://www.sacred-texts.com/hin/m07/index.htm
+
+EKALAVYA — THE THUMB OFFERING
+Ekalavya wanted to learn archery from Drona, the greatest teacher. Drona refused — Ekalavya was not of the warrior caste. So Ekalavya built a clay statue of Drona in the forest and taught himself, treating the statue as his guru. He became the greatest archer alive — better than Arjuna. When Drona discovered this, he asked for guru dakshina (teacher's fee). His demand: Ekalavya's right thumb. Without hesitation, Ekalavya cut it off and gave it to the teacher who had never taught him. He could never shoot the same way again.
+
+Source tradition: Mahabharata, Adi Parva
+Why it works: Loyalty that destroys. The student who honored a teacher who rejected him. The cost of devotion when systems are unjust.
+Hook suggestion: "The greatest archer in the Mahabharata wasn't Arjuna. And the man who stopped him never taught him a single lesson."
+Reference: https://www.sacred-texts.com/hin/m01/index.htm
+
+---
+
+SECTION: Indian Mythology — Misunderstood Powers
+
+RAVANA — THE SCHOLAR KING
+Popular culture paints Ravana as pure villain. The texts tell a different story. Ravana was the greatest Shiva devotee of his age. He composed the Shiva Tandava Stotram while Shiva was crushing him under a mountain — he turned his own punishment into devotional music. He was master of the Vedas, skilled in medicine, and his kingdom Lanka had no poverty. The Valmiki Ramayana describes him as a scholar whose knowledge surpassed most sages. His flaw was arrogance, not ignorance. He knew dharma. He chose adharma anyway. That's what makes him terrifying.
+
+Source tradition: Valmiki Ramayana, Uttara Kanda; Shiva Tandava Stotram
+Why it works: Villain rehabilitation content performs — but this isn't rehabilitation. It's complication. He was brilliant AND terrible. That's more interesting.
+Hook suggestion: "The demon king Ravana wrote one of the greatest devotional hymns in history — while a god was crushing him under a mountain."
+Reference: https://www.sacred-texts.com/hin/rama/index.htm
+
+SHAKUNI — THE ARCHITECT OF WAR
+Shakuni is remembered as the cheater who rigged the dice game that destroyed the Pandavas. What's less known: some traditions say he had a reason. His sister Gandhari was married to blind Dhritarashtra against her will. The entire Gandhara kingdom — Shakuni's family — may have been imprisoned and starved by the Kuru kings, with Shakuni as the sole survivor kept alive specifically so Gandhari would have family at court. The dice he used were made from his father's bones. His entire life was revenge disguised as service.
+
+Source tradition: Mahabharata regional traditions, particularly Bengali and Odiya retellings; referenced in Adi Parva context
+Why it works: Origin story content. The villain had a why. Whether this version is original or later addition, it reframes everything.
+Hook suggestion: "The most hated villain in the Mahabharata may have been playing a revenge game his enemies never knew existed."
+
+HOLIKA — THE AUNT WHO BURNED
+In the Holi story, Holika is the demoness who tried to burn her nephew Prahlad and died instead. Simple villain story. But some readings note: she had a boon of fire immunity. She was ordered by her brother Hiranyakashipu to sit in the fire with Prahlad. Some traditions say she whispered to Prahlad what to do — knowing her boon only worked when she entered fire alone. She may have sacrificed herself while appearing to obey her tyrannical brother.
+
+Source tradition: Bhagavata Purana (primary narrative), with alternative readings in regional traditions
+Why it works: Festival origins with hidden tragedy. Reframing content performs when backed by actual textual ambiguity.
+Hook suggestion: "What if the villain of Holi wasn't a villain at all?"
+
+---
+
+SECTION: Indian Mythology — Divine Dialogues and Decisions
+
+KRISHNA'S OFFER TO DURYODHANA
+Before the war, Krishna offered both sides a choice: you can have me — but I won't fight. Or you can have my entire Narayani army. Duryodhana chose the army without hesitation. Arjuna chose Krishna alone. The dialogue in the Udyoga Parva shows Duryodhana's reasoning: what use is one man who won't even fight? He calculated correctly by every material measure. He lost everything anyway. The scene is a masterclass in how wisdom and intelligence aren't the same thing.
+
+Source tradition: Mahabharata, Udyoga Parva
+Why it works: Decision-point content. Two choices, same information, opposite conclusions. The audience can feel the weight.
+Hook suggestion: "Both were offered the same choice. One picked an army. One picked a single man who refused to fight. Only one survived the war."
+Reference: https://www.sacred-texts.com/hin/m05/index.htm
+
+YUDHISTHIRA'S HALF-LIE
+Drona was unbeatable on the battlefield. The only way to stop him: break him emotionally. So the Pandavas killed an elephant named Ashwatthama — the same name as Drona's son. Yudhisthira, who had never lied in his life, told Drona: "Ashwatthama is dead." Then, quieter: "the elephant." Krishna blew his conch to drown out the last words. Drona, believing his son was dead, laid down his weapons. He was killed immediately. The most righteous man in the epic won by technicality. The cost to his soul was visible for the rest of the story.
+
+Source tradition: Mahabharata, Drona Parva
+Why it works: Moral compromise content. The "good guys" winning through deception they can barely live with.
+Hook suggestion: "The only man who never lied won the war with a half-truth. And his chariot never touched the ground the same way again."
+
+NACHIKETA AND YAMA — THE BOY WHO ARGUED WITH DEATH
+Nachiketa's father, performing a sacrifice, gave away old and useless cattle instead of his best. Nachiketa, a boy, asked his father: "To whom will you give me?" His father, irritated, said: "I give you to Death." Nachiketa went to Yama's realm. Death was away. Nachiketa waited three days without food or water. When Yama returned, he was ashamed — a brahmin guest had been dishonored. He offered three boons. Nachiketa's third request: "Teach me what happens after death." Yama tried everything to avoid answering. He offered wealth, power, long life, anything else. Nachiketa refused all of it. Yama, impressed, finally taught him the nature of the Atman. This is the core of the Katha Upanishad.
+
+Source tradition: Katha Upanishad
+Why it works: A child outwaits Death itself and refuses to be distracted by every worldly temptation. The dialogue structure is perfect for narrative content.
+Hook suggestion: "A boy waited three days in the realm of Death — and when Death offered him everything in the world, he said no."
+Reference: https://www.sacred-texts.com/hin/sbe15/sbe15012.htm
+
+---
+
+SECTION: Cross-Myth Comparisons
+
+PROMETHEUS AND MAHARISHI DADHICHI — BODIES GIVEN FOR HUMANITY
+
+Prometheus (Greek) stole fire from the gods and gave it to humanity. His punishment: eternal torture, his liver eaten daily by an eagle, regrowing each night.
+
+Maharishi Dadhichi (Indian) gave his own bones to the gods so they could forge the Vajra — the only weapon capable of killing the demon Vritra. He didn't wait to be asked twice. He entered deep meditation, left his body, and let the gods take his skeleton.
+
+Both figures gave something of themselves — permanently — so others could survive. But the framing differs. Prometheus defied authority and was punished. Dadhichi was asked and agreed. One is rebellion. One is sacrifice. Both are foundational to their cultures' understanding of what it costs to help humanity.
+
+Source traditions: Hesiod's Theogony, Works and Days (Prometheus); Rigveda, Bhagavata Purana (Dadhichi)
+Why it works: Not surface comparison ("both helped humans") but structural: punishment vs. willing gift. That's a real cultural insight.
+Hook suggestion: "Two heroes gave their bodies so humanity could survive. One was tortured forever. One chose it freely. The difference tells you everything about two civilizations."
+Reference (Prometheus): https://www.theoi.com/Titan/TitanPrometheus.html
+
+YAMA AND OSIRIS — FIRST TO DIE, NOW THEY JUDGE
+
+Yama (Vedic/Hindu) was, in some Rigvedic hymns, the first mortal to die — and because he found the path, he became lord of the dead, guiding others.
+
+Osiris (Egyptian) was murdered by Set, resurrected partially by Isis, and became ruler of the Duat, the underworld, judging souls by weighing their hearts against Ma'at's feather.
+
+Both are not death personified but death's administrators. They were once mortal. They know what it is to cross. They judge because they went first. This is different from Greek Hades, who was always a god and never died.
+
+Source traditions: Rigveda 10.14, Yama Sukta; Egyptian Book of the Dead, Osiris mythology
+Why it works: The "first to die becomes king of dead" pattern is cross-cultural but the reasoning differs. Content showing the pattern AND the divergence is more interesting than "they're basically the same."
+Hook suggestion: "In two completely separate civilizations, the first being to die became the judge of everyone who died after. Coincidence? Or something humans just understand?"
+
+KUNTI AND LEDA — MORTAL MOTHERS, DIVINE FORCE
+
+Kunti (Indian) received a mantra allowing her to invoke any god and bear his child. She called Surya out of curiosity before marriage — and bore Karna. Later, with permission, she bore Yudhishthira (Dharma), Bhima (Vayu), and Arjuna (Indra).
+
+Leda (Greek) was approached by Zeus in the form of a swan. From that union came Helen and Polydeuces (divine) and Clytemnestra and Castor (mortal), sometimes described as hatched from eggs.
+
+Both women are the hinge between divine and human worlds. But Kunti had a mechanism — a boon, a method, some agency in the invocation. Leda's myths vary, but many emphasize Zeus's decision, not hers. Agency differs.
+
+Source traditions: Mahabharata, Adi Parva (Kunti); various Greek sources including Euripides' Helen, pseudo-Apollodorus (Leda)
+Why it works: Motherhood of heroes is a cross-cultural pattern. But the question "did she choose?" varies, and that variance matters.
+Hook suggestion: "Two women gave birth to the most important figures in their mythologies. One had a magic mantra. One had a swan. The difference in their power tells you something."
+
+---
+
+SECTION: Punishment, Prophecy, and Fate
+
+GANDHARI'S CURSE ON KRISHNA — THE END OF A DYNASTY
+
+After the Kurukshetra war, Gandhari lost all one hundred of her sons. When Krishna came to offer condolences, she cursed him: "Just as you allowed my family to be destroyed, your own clan will destroy themselves. Thirty-six years from now, the Yadavas will kill each other, and you will die alone, in the forest, by a common hunter's arrow."
+
+Krishna accepted the curse. He didn't argue, didn't defend, didn't use his divine power. He said: "I know. I knew before you spoke it."
+
+The curse came true. The Yadavas, drunk and quarrelsome, killed each other with reeds that became weapons. Krishna, alone in the forest, was shot in the foot by a hunter named Jara who mistook him for a deer. The avatar's death was not glorious. It was accidental. And it was fated by a grieving mother's words.
+
+Source tradition: Mahabharata, Stri Parva and Mausala Parva
+Why it works: God-level beings brought down not by war but by grief-curses and irony. The mundane death of the divine is haunting.
+Hook suggestion: "A mother who lost 100 sons cursed a god. Thirty-six years later, he died alone in a forest, shot by a hunter who didn't even know who he was."
+Reference: https://www.sacred-texts.com/hin/m11/index.htm
+
+PANDU'S CURSE — THE KING WHO COULDN'T TOUCH HIS WIVES
+
+King Pandu, hunting in the forest, shot two deer who were mating. The deer were actually the sage Kindama and his wife in animal form. As he died, the sage cursed Pandu: the moment you embrace your wife in passion, you will die.
+
+Pandu abdicated his throne. He lived in the forest with his two wives, Kunti and Madri, unable to produce heirs through normal means — which is why Kunti's divine boon mattered. The five Pandavas are not biologically Pandu's sons. They couldn't be.
+
+Years later, Pandu saw Madri in the forest and was overcome. He embraced her. He died instantly. Madri, in grief and guilt, committed sati on his pyre. Kunti raised all five sons alone.
+
+Source tradition: Mahabharata, Adi Parva
+Why it works: The curse sets up everything — the strange parentage of the heroes, the kingdom dispute, all of it. One moment of violence, one curse, centuries of consequence.
+Hook suggestion: "A king shot two deer. One was a sage in disguise. The dying curse meant he could never touch his wives again — and his children were
