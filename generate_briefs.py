@@ -115,7 +115,7 @@ def claude(system_prompt, user_content, model="claude-opus-4-5"):
         },
         method="POST"
     )
-    with urllib.request.urlopen(req, context=ctx, timeout=60) as r:
+    with urllib.request.urlopen(req, context=ctx, timeout=180) as r:
         data = json.loads(r.read())
     return data["content"][0]["text"]
 
@@ -308,11 +308,14 @@ def main():
     if API_KEY:
         print("\n  Claude API key found — writing smart briefs...")
         try:
-            ai_text   = make_ai_brief(ai_scraped)
+            ai_text = make_ai_brief(ai_scraped)
+        except Exception as e:
+            print(f"  Claude API error (AI brief): {e} — falling back")
+            ai_text = fallback_ai(ai_scraped)
+        try:
             myth_text = make_myth_brief(myth_scraped)
         except Exception as e:
-            print(f"  Claude API error: {e} — falling back")
-            ai_text   = fallback_ai(ai_scraped)
+            print(f"  Claude API error (Myth brief): {e} — falling back")
             myth_text = fallback_myth()
     else:
         print("\n  No ANTHROPIC_API_KEY — using fallback mode")
