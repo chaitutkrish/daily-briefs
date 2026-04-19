@@ -1,0 +1,16 @@
+AI DAILY BRIEF — April 19, 2026
+(Fallback mode — add ANTHROPIC_API_KEY secret to GitHub to enable Claude-written briefs)
+
+SCRAPED SOURCES TODAY:
+SOURCE: Anthropic News
+URL: https://www.anthropic.com/news
+Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Newsroom Press inquires press@anthropic.com Non-media inquiries support@anthropic.com Media assets Download press kit Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most. Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more. Announcements Apr 7, 2026 Project Glasswing A new initiative that brings together Amazon Web Services, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks in an effort to secure the world&#x27;s most critical software. Mar 18, 2026 What 81,000 people want from AI We invited Claude.ai users to share how they use AI, what they dream it could make possible, and what they fear it might do. Nearly 81,000 people participated—the largest and most multilingual qualitative study of its kind. Here&#x27;s what we found. Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust. News Search Date Category Title Apr 17, 2026 Product Introducing Claude Design by Anthropic Labs Apr 16, 2026 Product Introducing Claude Opus 4.7 Apr 14, 2026 Announcements Anthropic’s Long-Term Benefit Trust appoints Vas Narasimhan to Board of Directors Apr 6, 2026 Announcements Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute Mar 31, 2026 Announcements Australian government and Anthr
+
+
+SOURCE: Anthropic Research
+URL: https://www.anthropic.com/research
+Skip to main content Skip to footer Research Economic Futures Commitments Learn News Try Claude Research Our research teams investigate the safety, inner workings, and societal impacts of AI models – so that artificial intelligence has a positive impact as it becomes increasingly capable. Research teams: Alignment Economic Research Interpretability Societal Impacts Interpretability The mission of the Interpretability team is to discover and understand how large language models work internally, as a foundation for AI safety and positive outcomes. Alignment The Alignment team works to understand the risks of AI models and develop ways to ensure that future ones remain helpful, honest, and harmless. Societal Impacts Working closely with the Anthropic Policy and Safeguards teams, Societal Impacts is a technical research team that explores how AI is used in the re
+
+To enable full AI-written briefings:
+1. Go to your GitHub repo → Settings → Secrets → Actions
+2. Add secret: ANTHROPIC_API_KEY = your key from console.anthropic.com
