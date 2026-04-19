@@ -1,0 +1,38 @@
+AI BRIEFING
+Date: April 18, 2026
+
+Today the AI story is not just that new models exist. The real story is that AI is becoming more useful, more practical, and more deeply connected to the way people actually work, create, and ship things.
+
+Start with the strongest lane right now: agentic AI and coding.
+OpenAI's recent company announcements keep reinforcing the same direction. AI is moving away from being only a chatbot and becoming something that can take action, help build, and support execution. That is why this category matters for content. People are no longer just asking, "What can this model say?" They are asking, "What can this model do for me?"
+
+Anthropic is also adding fuel to that same trend. Claude Opus 4.7 and Claude Design matter because they push AI beyond plain answering and into higher-value work like coding, design, prototyping, and multi-step creation. If you want to make a useful short video, the framing is simple: the AI race is no longer just about intelligence. It is about becoming a full creator workstation.
+
+Now shift to Google.
+Gemini's recent direction is important because Google is not treating AI like a side experiment. It is pushing Gemini into the daily software people already use. Docs, Sheets, Slides, and Drive become much more interesting content when you explain them through one question: which of these features would a normal creator, student, or business user actually try today? That is the angle that works.
+
+The third major lane is AI creator tooling.
+Runway is especially important here. Seedance 2.0, Runway Characters, and the inclusion of Nano Banana 2 point to a bigger pattern: creator tools are becoming faster, more visual, and more demo-friendly. This is exactly the kind of AI content that performs in short form because viewers can understand the value immediately. Show the tool, show the result, and then explain who should care.
+
+So what should your AI content focus on today?
+
+First, make short explainers around current official updates. A video like "3 AI updates from this week that actually matter" works because it filters noise and saves the viewer time.
+
+Second, make comparison content. A format like "Claude vs Gemini vs OpenAI: what changed most recently?" works because viewers want someone to simplify the market for them.
+
+Third, make creator-tool demos. Runway's latest visual features are perfect for this because they show value instantly.
+
+If you only make one AI video today, make it about this bigger shift:
+AI is no longer just a chatbot. It is turning into a working system for coding, design, productivity, and video.
+
+That idea is bigger than any single release, and it gives you a series, not just one post.
+
+Primary sources for this briefing
+- OpenAI company announcements: https://openai.com/news/company-announcements/
+- OpenAI model release notes: https://help.openai.com/en/articles/9624314-model-release-notes
+- Anthropic news: https://www.anthropic.com/news
+- Google Gemini updates: https://blog.google/products/gemini/
+- Google AI updates: https://blog.google/technology/ai/
+- Google Workspace Gemini updates: https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/
+- Runway changelog: https://runwayml.com/changelog
+- Runway characters note: https://runwayml.com/news/building-interactive-ai-characters-responsibly
