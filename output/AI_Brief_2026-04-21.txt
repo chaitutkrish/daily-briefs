@@ -1,0 +1,106 @@
+AI DAILY BRIEF — April 21, 2026
+
+OPENING:
+
+Anthropic just dropped Claude Opus 4.7 and a brand new design tool called Claude Design — both within 24 hours of each other. This is Anthropic going full-stack creative: one product makes your code and agents smarter, the other lets you build polished slides and prototypes with an AI collaborator. If you've been watching the race between frontier labs, this is Anthropic saying "we're not just a chatbot company anymore." The creator tools angle here is massive.
+
+---
+
+SECTION: Agentic AI and Coding
+
+Claude Opus 4.7 launched on April 16th with major upgrades to coding, agentic workflows, vision, and multi-step task handling. Anthropic specifically calls out "greater thoroughness and consistency on the work that matters most" — which reads like a direct shot at the flakiness people complain about with long agent chains. This is their new flagship model, and it's clearly built for developers who want Claude to do real work, not just answer questions.
+Video angle: "Opus 4.7 vs 4.5 — what actually changed?" or a live coding challenge showing multi-step agent tasks.
+Source: https://www.anthropic.com/news
+
+Google AI Studio now supports "vibe coding" with your Google AI subscription. This is Google leaning into the casual, exploratory coding style that's been trending — where you describe what you want and the AI iterates with you. Less formal IDE, more creative sandbox.
+Video angle: "Google just made vibe coding official" — show the workflow, compare to Cursor or Replit.
+Source: https://blog.google/technology/ai/
+
+Hugging Face featured a community article on using OCR models with llama.cpp — a practical guide for running vision-to-text locally. This is the kind of under-the-radar tooling that indie devs love.
+Video angle: "Run OCR on your own machine with llama.cpp — here's how."
+Source: https://huggingface.co/blog
+
+---
+
+SECTION: AI Creator Tools
+
+Claude Design launched on April 17th from Anthropic Labs. This is a new product category for Anthropic — you can now collaborate with Claude to create designs, prototypes, slides, and one-pagers. Think Canva meets AI copilot, but from a company known for thoughtful AI. This is a direct play for the creator and business user market.
+Video angle: 60-second Short showing Claude Design in action — "I asked Claude to make my pitch deck and this is what happened."
+Source: https://www.anthropic.com/news
+
+Google's Gemini app can now generate interactive simulations and models, not just images. This expands what "create with AI" means — you're not just getting a flat image, you're getting something you can manipulate.
+Video angle: "Gemini now makes interactive simulations — here's what that looks like."
+Source: https://blog.google/technology/ai/
+
+Hugging Face highlighted Nucleus-Image, a new text-to-image model using sparse mixture of experts. This is a technical advancement that could mean faster, cheaper image generation at scale.
+Video angle: "This new image model uses way less compute — here's why that matters."
+Source: https://huggingface.co/blog
+
+---
+
+SECTION: AI Video and Image Tools
+
+Meta released SAM 3.1 on March 27th — faster real-time video detection and tracking with multiplexing and global reasoning. Segment Anything is becoming the backbone for video editing tools, and this update makes it even more practical for creators who need to isolate objects in moving footage.
+Video angle: "SAM 3.1 is insane for video editors — watch this" with a demo of object tracking.
+Source: https://ai.meta.com/blog/
+
+Google's Nano Banana model (yes, really) is now available for creating and editing detailed images. The naming is playful, but this is part of Google's push to make image generation more accessible inside their ecosystem.
+Video angle: "Google's Nano Banana is a weird name for a powerful image tool."
+Source: https://deepmind.google/discover/blog/
+
+---
+
+SECTION: New Model Releases and Features
+
+Claude Opus 4.7 (April 16) — Anthropic's new flagship. Stronger coding, agents, vision, multi-step reasoning.
+Source: https://www.anthropic.com/news
+
+Mistral's Voxtral TTS — A frontier open-weights text-to-speech model that's fast, instantly adaptable, and produces lifelike speech for voice agents. This launched March 23rd and is a big deal for anyone building voice-first apps or AI characters.
+Video angle: "Mistral's new voice model sounds almost human — and it's open weights." 60-second Short potential.
+Source: https://mistral.ai/news/
+
+Meta's Muse Spark (April 8) — Described as "Scaling Towards Personal Superintelligence." This is Meta's latest push toward personalized AI that learns and adapts to individual users. The framing is ambitious — they're using the word "superintelligence" in a product context.
+Video angle: "Meta says this is the path to personal superintelligence — what does that actually mean?"
+Source: https://ai.meta.com/blog/
+
+NVIDIA Isaac GR00T N1.7 — An open reasoning VLA (vision-language-action) model for humanoid robots, featured on Hugging Face. This is robotics + AI reasoning in one package.
+Video angle: "NVIDIA just open-sourced a brain for humanoid robots."
+Source: https://huggingface.co/blog
+
+---
+
+SECTION: AI Productivity and Business Tools
+
+Project Glasswing (April 7, Anthropic) — A new security initiative bringing together AWS, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks to secure critical software. This is a who's-who of tech joining forces on AI security. The name is dramatic, the coalition is real.
+Video angle: "Every major tech company just joined forces on AI security — here's why."
+Source: https://www.anthropic.com/news
+
+Google announced prepay options for the Gemini API to give developers more control over spend. This is a practical update for anyone building on Gemini who wants predictable costs.
+Video angle: Quick explainer for developers — "How to control your Gemini API costs now."
+Source: https://blog.google/technology/ai/
+
+Learn Mode in Google Colab — A personal coding tutor built into Colab. This is Google making their notebook environment smarter for learners and hobbyists.
+Video angle: "Google Colab just got a built-in coding tutor."
+Source: https://blog.google/technology/ai/
+
+---
+
+TODAY'S PRIORITY
+
+Claude Design is the video to make first today. It's brand new (April 17), it's from Anthropic (high trust, high interest), and it's a totally new product category for them. The hook writes itself: "Anthropic just launched a design tool — and it's not what you'd expect from a chatbot company." This is a 60-second Short with massive potential because it's visual, surprising, and immediately useful to creators.
+
+---
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic just launched a design tool — here's what Claude Design can actually do"
+Hook: "The company behind Claude just dropped a design app. I tested it."
+Why it works: New product, visual demo potential, creator-relevant, and it's from a company people associate with text, not visuals. The surprise factor is high.
+
+2. "Mistral's new voice model sounds almost human — and it's completely open weights"
+Hook: "This AI voice is open source. Listen to this."
+Why it works: Voice demos are inherently engaging. Voxtral TTS is frontier-quality and open, which is rare. Easy 60-second Short: play samples, explain why open weights matter.
+
+3. "Every major tech company just joined forces on AI security — here's Project Glasswing"
+Hook: "Apple, Google, Microsoft, Amazon, NVIDIA, and more just formed an alliance. Here's what they're doing."
+Why it works: Big names, dramatic coalition, timely topic (AI security). This is a "wait, what?" headline that earns clicks and watch time.
