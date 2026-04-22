@@ -1,0 +1,72 @@
+AI DAILY BRIEF — April 22, 2026
+
+OPENING:
+Anthropic just dropped Claude Opus 4.7 and a brand new design tool in the same week — and honestly, that's the story right now. While everyone else is iterating, Anthropic is expanding what an AI assistant even *is*. Opus 4.7 brings serious upgrades to coding and agentic work, but the real curveball is Claude Design: an AI that collaborates with you on actual visual work — slides, prototypes, one-pagers. This isn't "generate an image." This is "let's build a deck together." That's a different game.
+
+SECTION: Agentic AI and Coding
+
+Anthropic's Claude Opus 4.7 landed on April 16 with major improvements to coding, agents, and multi-step tasks. The key phrase in their announcement: "greater thoroughness and consistency on the work that matters most." Translation: they're optimizing for the long, complex workflows — not just quick prompts. This is Anthropic leaning hard into agentic reliability, which is the real bottleneck right now.
+Video angle: "Why the new Claude might actually finish your project" — show a side-by-side of a multi-step coding task on Opus 4.7 vs. an older model.
+Source: https://www.anthropic.com/news
+
+Google's Gemini Robotics is now live — described as able to "perceive, reason, use tools and interact." That's embodied AI, meaning robots that don't just follow scripts but actually think through physical tasks.
+Video angle: "Google's new AI can pick things up and figure out why" — explain what it means for a robot to reason, not just react.
+Source: https://deepmind.google/discover/blog/
+
+SECTION: AI Creator Tools
+
+Claude Design by Anthropic Labs launched April 17. This is a new product specifically for visual collaboration — you work *with* Claude to create polished slides, prototypes, one-pagers, and designs. Not auto-generated slop. Collaborative iteration.
+Video angle: This is a 60-second Short goldmine. Hook: "Anthropic just made a tool that designs WITH you, not FOR you." Walk through the difference between generating vs. collaborating.
+Source: https://www.anthropic.com/news
+
+Google's Gemini app can now generate interactive simulations and models — not just static images. This is a shift toward generative interactivity, not just generation.
+Video angle: "Google Gemini can now build you a working simulation" — show what this looks like compared to a regular image output.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Video and Image Tools
+
+Google DeepMind's Veo and Imagen are now listed as core specialized models — Veo for cinematic video with audio, Imagen for high-quality images from text. These aren't new, but they're now being positioned front-and-center as production tools.
+Video angle: Quick explainer on what Google's video/image stack looks like now — Veo vs. Imagen vs. Lyria (audio).
+Source: https://deepmind.google/discover/blog/
+
+Meta's SAM 3.1 launched March 27 with faster real-time video detection, tracking, multiplexing, and global reasoning. This is the "Segment Anything" model, and now it's getting fast enough for live use.
+Video angle: "Meta's SAM can now track anything in real time" — demonstrate video segmentation and why it matters for creators.
+Source: https://ai.meta.com/blog/
+
+SECTION: New Model Releases and Features
+
+Mistral's Voxtral TTS dropped March 23 — a frontier, open-weights text-to-speech model that's fast, adaptable, and produces lifelike speech for voice agents.
+Video angle: This is a 60-second Short. Hook: "The best open-source voice just dropped — and it's free." Demo the voice quality vs. competitors.
+Source: https://mistral.ai/news/
+
+Meta introduced Muse Spark on April 8, framed as "scaling towards personal superintelligence." The focus is personalized AI that learns and adapts to you specifically.
+Video angle: "Meta wants to build a superintelligence just for you" — explain what personal superintelligence means and why Meta is betting on it.
+Source: https://ai.meta.com/blog/
+
+SECTION: AI Productivity and Business Tools
+
+Google AI Studio now supports "vibe coding" with a Google AI subscription — meaning you can start building with natural language prompts directly in Studio.
+Video angle: "Google wants you to code by vibes now" — walkthrough of what vibe coding looks like in AI Studio.
+Source: https://blog.google/technology/ai/
+
+Google Colab launched "Learn Mode" — a personal coding tutor built into the notebook environment.
+Video angle: "Google Colab will now teach you to code while you code" — show how Learn Mode works mid-project.
+Source: https://blog.google/technology/ai/
+
+Anthropic announced Claude will remain ad-free, with a long statement on why advertising incentives are incompatible with a helpful AI assistant.
+Video angle: This is a positioning story. Hook: "Why Claude will never show you ads — and what that means for AI."
+Source: https://www.anthropic.com/news
+
+TODAY'S PRIORITY
+Make a video about Claude Design today. This is brand new (April 17), it's a genuinely different product category (collaborative design, not just generation), and it's from Anthropic — which means it'll get attention. The hook is clear: "AI that designs WITH you, not FOR you."
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic just released an AI that designs WITH you"
+Hook: "Forget image generators — Claude Design actually collaborates." Walk through what makes this different from Midjourney or Canva AI. This is a 60-second Short that can also expand into a longer Reel.
+
+2. "Mistral's new voice model is free and sounds human"
+Hook: "The best open-source voice just dropped." Play audio samples, compare to ElevenLabs or OpenAI voices. This is pure 60-second demo content.
+
+3. "Google Colab now teaches you to code while you work"
+Hook: "You don't need a course anymore." Show Learn Mode in action — how it tutors you inside the notebook. Great for the "learn AI skills" audience.
