@@ -1,0 +1,95 @@
+AI DAILY BRIEF — April 23, 2026
+
+OPENING:
+
+Anthropic just dropped Claude Design, and it's not a minor update — it's a full visual creation studio built into Claude. You can now collaborate with the AI to build polished designs, prototypes, slide decks, and one-pagers directly inside their ecosystem. This is Anthropic saying: "We're not just a chatbot company anymore." Meanwhile, they also quietly shipped Opus 4.7 last week with major upgrades to coding, agents, and vision. The AI assistant wars just got a new front: creative tools.
+
+SECTION: Agentic AI and Coding
+
+**Claude Opus 4.7 drops with agent-first improvements**
+Anthropic's latest flagship model specifically highlights stronger performance for "agents" and "multi-step tasks." That's not accidental phrasing — they're building toward AI that can actually execute complex workflows autonomously, not just chat. The emphasis on "thoroughness and consistency" suggests they're targeting reliability for real-world agentic use cases where one wrong step breaks everything.
+Video angle: "Claude's new model is built for AI agents — here's what that actually means for you"
+Source: https://www.anthropic.com/news
+
+**Google's Gemini Robotics and SIMA 2 pushing embodied agents**
+DeepMind is showcasing Gemini Robotics (perceive, reason, use tools, interact) and SIMA 2, described as "an agent that plays, reasons, and learns with you." These aren't chatbots — they're AI systems designed to take actions in physical and virtual environments. The gap between "AI assistant" and "AI that does things for you" is closing fast.
+Video angle: "Google's AI can now play games AND learn from them — why that matters"
+Source: https://deepmind.google/discover/blog/
+
+SECTION: AI Creator Tools
+
+**Claude Design launches from Anthropic Labs**
+This is the big one for creators. Claude Design lets you collaborate with Claude to create "polished visual work like designs, prototypes, slides, one-pagers, and more." It's positioned under "Anthropic Labs," which suggests it's experimental but production-ready enough to ship. If this works well, it could replace a chunk of the Canva/Figma workflow for quick visual assets.
+Video angle: Perfect 60-second Short — "Anthropic just made Claude a designer. I tested it."
+Source: https://www.anthropic.com/news
+
+**Gemini app now generates interactive simulations and models**
+Google's Gemini app update allows personalized image creation plus something more interesting: generating interactive simulations. That's beyond static images — we're talking dynamic, manipulable visual content. Details are thin but the implications for educational content and prototyping are huge.
+Video angle: "Gemini can build simulations now — I made one in 60 seconds"
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Video and Image Tools
+
+**Google Veo, Imagen, and Nano Banana updates**
+DeepMind's model lineup now includes Veo for "cinematic video with audio" generation and Imagen for high-quality image generation. There's also a new model called "Nano Banana" for creating and editing detailed images — unclear if this is a codename or real branding, but Google is clearly building out a full creative suite.
+Video angle: "Google's video AI now adds audio automatically — here's what that sounds like"
+Source: https://deepmind.google/discover/blog/
+
+**Meta's SAM 3.1 brings real-time video detection with multiplexing**
+Segment Anything Model just got faster. SAM 3.1 adds "multiplexing and global reasoning" for real-time video detection and tracking. Translation: you can now track multiple objects across video frames more efficiently. This is infrastructure for everything from AR filters to autonomous systems.
+Video angle: "Meta's SAM 3.1 can track anything in real-time video — here's how it works"
+Source: https://ai.meta.com/blog/
+
+SECTION: New Model Releases and Features
+
+**Voxtral TTS: Mistral's open-weights text-to-speech model**
+Mistral released Voxtral TTS — a frontier, open-weights text-to-speech model that's "fast, instantly adaptable, and produces lifelike speech for voice agents." Open-weights is the key phrase here. You can actually run and fine-tune this yourself. For anyone building voice interfaces or AI agents that need to talk, this is significant.
+Video angle: Great 60-second Short — "Mistral just open-sourced a voice model that sounds THIS good"
+Source: https://mistral.ai/news/
+
+**Genie 3: Google's interactive world generation**
+DeepMind's Genie 3 lets you "generate and explore interactive worlds." This is world model territory — AI that doesn't just describe environments but creates navigable, explorable spaces. Combined with Gemini Robotics, Google is building toward AI that understands and operates within 3D environments.
+Video angle: "Google's AI can generate entire worlds you can walk through"
+Source: https://deepmind.google/discover/blog/
+
+**TRIBE v2: Meta's brain prediction model**
+Meta released TRIBE v2, a "predictive foundation model trained to understand how the human brain processes complex stimuli." This is research-heavy but fascinating — they're modeling human cognition to presumably make AI systems that align better with how we actually think.
+Video angle: "Meta trained AI to predict how YOUR brain works"
+Source: https://ai.meta.com/blog/
+
+SECTION: AI Productivity and Business Tools
+
+**Project Glasswing: Major security coalition announced**
+Anthropic announced Project Glasswing — a coalition including AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks. The goal: "secure the world's most critical software." This is basically every major tech company agreeing AI security is an existential priority. When Apple and Google are in the same initiative, pay attention.
+Video angle: "Every major tech company just teamed up for AI security — here's why"
+Source: https://www.anthropic.com/news
+
+**Meta's Muse Spark: "Scaling Towards Personal Superintelligence"**
+Meta announced Muse Spark with genuinely aggressive framing: "Scaling Towards Personal Superintelligence." Details are light in the scrape, but they're explicitly using the word superintelligence for a personal AI product. Either this is marketing hyperbole or Meta is signaling something significant about their AI ambitions.
+Video angle: "Meta just announced 'personal superintelligence' — what does that even mean?"
+Source: https://ai.meta.com/blog/
+
+**Learn Mode in Google Colab: AI coding tutor**
+Google launched Learn Mode, a "personal coding tutor" built into Google Colab. This turns Colab from a notebook environment into an educational platform with AI guidance. For anyone learning to code, this is huge.
+Video angle: "Google Colab now teaches you to code — I tested their new AI tutor"
+Source: https://blog.google/technology/ai/
+
+**Hugging Face: Open OCR and multilingual tool calling**
+The community is shipping hard. Notable: they OCR'd 30,000 papers using Codex and open models, released multilingual tool calling in 70+ languages that runs on-device, and announced Cohere-transcribe for state-of-the-art speech recognition. The open-source ecosystem keeps closing the gap with proprietary tools.
+Video angle: "Open-source AI can now call tools in 70 languages — on your phone"
+Source: https://huggingface.co/blog
+
+TODAY'S PRIORITY
+
+Make content about Claude Design first. Here's why: Anthropic shipping a visual design tool is a category expansion that will surprise people. Most audiences still think of Claude as "the chatbot that's good at writing." Showing them it can now create polished visual work is a genuine "wait, what?" moment — and those moments drive engagement. Plus, you can SHOW the outputs, which makes for better video than explaining model benchmarks.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. **"Anthropic turned Claude into a designer — I made a pitch deck in 2 minutes"**
+Hook: "Claude doesn't just write anymore." Show the actual workflow of creating something visual in Claude Design. Works because it's a live demonstration of a capability most people don't know exists, and the before/after is inherently compelling.
+
+2. **"Mistral just open-sourced the best voice AI — here's what it sounds like"**
+Hook: Play the audio first, then reveal it's open-source and you can run it yourself. Works because voice quality is immediately visceral — people can judge it in 3 seconds — and "open-source" adds a practical angle for builders.
+
+3. **"Every tech giant just agreed AI security is an emergency"**
+Hook: "Apple, Google, Microsoft, Amazon, and Anthropic are in the same room. That never happens." Explain Project Glasswing and why this coalition existing tells you something about where AI is headed. Works because it's a rare "zoom out" story that makes viewers feel informed about the bigger picture.
