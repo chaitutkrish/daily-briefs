@@ -1,0 +1,90 @@
+AI DAILY BRIEF — April 25, 2026
+
+OPENING:
+
+Anthropic just ran one of the most fascinating AI experiments I've seen in months. They built an internal marketplace in their San Francisco office and let Claude handle all the buying, selling, and negotiating on behalf of employees. It's called Project Deal, and it dropped yesterday. This isn't a benchmark or a demo — it's AI agents handling real transactions with real stakes between real coworkers. If you want to understand where agentic AI is actually headed, this is the signal.
+
+SECTION: Agentic AI and Coding
+
+Project Deal — Anthropic's Internal AI Marketplace Experiment
+Anthropic created an employee marketplace where Claude acts as the negotiator for both buyers and sellers. This is hands-on research into how AI handles persuasion, compromise, and value assessment in real-world transactions — not hypothetical scenarios. The implications for AI sales agents, customer service, and automated deal-making are huge. This is a 60-second Short waiting to happen: "Anthropic let AI negotiate deals between coworkers — here's what happened."
+Source: https://www.anthropic.com/research
+
+Learn Mode in Google Colab — A Personal Coding Tutor
+Google quietly introduced Learn Mode, which turns Colab into an AI coding tutor. This isn't autocomplete — it's designed to teach you as you code. For anyone making content about learning to code with AI, this is a direct angle: "Google just made Colab your personal coding teacher."
+Source: https://blog.google/technology/ai/
+
+Vibe Coding in AI Studio
+Google also enabled vibe coding in AI Studio for subscribers — meaning you can now code by describing what you want in natural language and iterating. The "vibe coding" framing is already social-native. Good hook: "Vibe coding is now official — here's how Google wants you to build."
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Creator Tools
+
+Claude Design by Anthropic Labs
+Anthropic launched Claude Design — a new product that lets you collaborate with Claude to create slides, prototypes, one-pagers, and polished visual work. This is Anthropic's first serious move into the creator/design space. It's not image generation — it's design collaboration. Video angle: "Claude can now design your pitch deck — here's what it looks like."
+Source: https://www.anthropic.com/news
+
+Voxtral TTS — Mistral's Open-Weights Text-to-Speech Model
+Mistral released Voxtral TTS, a frontier text-to-speech model that's open-weights, fast, and designed for voice agents. It produces lifelike speech and adapts instantly. This is massive for anyone building voice AI products — and it's open. Short angle: "Mistral just open-sourced a voice model that sounds human."
+Source: https://mistral.ai/news/
+
+Darwin-TTS — TTS with Emotional Intelligence
+A community article on Hugging Face describes Darwin-TTS, a text-to-speech model that was given a small slice of an LLM's reasoning — and started showing emotion. The framing is wild: "We gave a TTS model 3% of an LLM's brain — it started showing emotion." This is content-ready as-is.
+Source: https://huggingface.co/blog
+
+SECTION: AI Video and Image Tools
+
+SAM 3.1 — Real-Time Video Detection and Tracking
+Meta released SAM 3.1, a major upgrade to Segment Anything. This version adds multiplexing and global reasoning for faster, more accessible real-time video detection and tracking. If you make content about video editing, VFX, or AI video tools, this is essential. Hook: "Meta's new SAM 3.1 can track anything in real-time video."
+Source: https://ai.meta.com/blog/
+
+Gemini Image Personalization
+Google's April Gemini Drop includes new ways to create personalized images in the Gemini app. Details are light, but if this means user-specific image generation, it's a big deal for creators. Worth watching and testing.
+Source: https://blog.google/technology/ai/
+
+SECTION: New Model Releases and Features
+
+Claude Opus 4.7
+Anthropic's latest flagship model dropped April 16. Opus 4.7 brings stronger performance in coding, agents, vision, and multi-step tasks — with emphasis on thoroughness and consistency. If you're covering Claude, this is the current best model to test against competitors.
+Source: https://www.anthropic.com/news
+
+Muse Spark — Meta's Move Toward Personal Superintelligence
+Meta introduced Muse Spark, framing it as "scaling towards personal superintelligence." This is Meta's vision for deeply personalized AI — reliability, security, and user protections are emphasized. The "personal superintelligence" framing is provocative and worth unpacking. Video angle: "Meta just announced personal superintelligence — here's what that means."
+Source: https://ai.meta.com/blog/
+
+Cohere-transcribe — State-of-the-Art Speech Recognition
+Cohere released a new transcription model claiming state-of-the-art performance. Covered on Hugging Face. If you're comparing transcription tools, add this to the list.
+Source: https://huggingface.co/blog
+
+SECTION: AI Productivity and Business Tools
+
+Project Glasswing — Major Tech Coalition for AI Security
+Anthropic announced Project Glasswing, a massive coalition including Amazon, Apple, Google, Microsoft, NVIDIA, and others — all focused on securing critical AI-powered software. This is the biggest AI security initiative announced this year. Not a Short — but important context for anyone covering AI safety or enterprise AI.
+Source: https://www.anthropic.com/news
+
+Anthropic and Amazon Expand Compute Collaboration
+Anthropic and Amazon are scaling up to 5 gigawatts of new compute. This is infrastructure news, but it signals how much compute is being poured into AI scaling right now.
+Source: https://www.anthropic.com/news
+
+Anthropic and NEC Building Japan's Largest AI Engineering Workforce
+Anthropic is partnering with NEC to build Japan's largest AI engineering workforce. This is expansion news — Anthropic is going global in a big way.
+Source: https://www.anthropic.com/news
+
+Prepay for Gemini API
+Google now lets you prepay for the Gemini API for more control over spend. Useful for developers building on Gemini.
+Source: https://blog.google/technology/ai/
+
+TODAY'S PRIORITY
+
+Make content about Project Deal — Anthropic's AI negotiation experiment. This is the most unique, conversation-starting story today. It's not a product launch or a benchmark — it's a real-world test of AI handling human negotiation. The hook writes itself, and no one else is covering it yet.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic let AI negotiate real deals between coworkers — here's what happened"
+Hook: Project Deal is the closest thing we've seen to AI agents operating in messy, real-world transactions. Walk through what they tested and what it means for AI sales agents, customer service bots, and automated deal-making. This is a 60-second explainer that feels like breaking news.
+
+2. "Claude can now design your pitch deck — and it's not what you think"
+Hook: Claude Design isn't image generation — it's design collaboration. Show what it can actually do (slides, prototypes, one-pagers) and how it compares to Canva AI or Figma AI. This is a direct tool demo that creators will want to see.
+
+3. "Mistral just open-sourced the best voice AI model — and it's free"
+Hook: Voxtral TTS is open-weights, fast, and produces lifelike speech. For anyone building voice agents or AI products, this is huge. Demo the voice quality and explain why open-weights matters.
