@@ -1,0 +1,123 @@
+AI DAILY BRIEF — April 26, 2026
+
+OPENING:
+
+The biggest story today is Anthropic's expansion of Claude into full-fledged creative work. Claude Design just dropped, and it's not a toy — it's a serious play to make Claude your collaborator on visual outputs like decks, prototypes, and one-pagers. Meanwhile, Anthropic also quietly released Opus 4.7, which they're calling their strongest model yet for coding, agents, and multi-step tasks. If you've been sleeping on Claude as "just a chatbot," this week should wake you up.
+
+SECTION: Agentic AI and Coding
+
+**Anthropic's Project Deal: Claude as a marketplace negotiator**
+Anthropic's research team built an internal marketplace in their San Francisco office — but here's the twist: employees had Claude buy, sell, and negotiate on their behalf. This is one of the clearest real-world agentic experiments we've seen from a major lab. It shows how close we are to AI handling transactional tasks autonomously.
+Video angle: "Anthropic let Claude haggle for office snacks — here's what happened."
+Source: https://www.anthropic.com/research
+
+**Google Colab's Learn Mode: AI as your coding tutor**
+Google introduced Learn Mode inside Colab — essentially a built-in coding tutor powered by AI. This is a big deal for anyone learning to code or onboarding to a new codebase. It's not just autocomplete; it's designed to teach you *why* something works.
+Video angle: "Google just made Colab your personal coding teacher — here's how it works."
+Source: https://blog.google/technology/ai/
+
+**Google AI Studio: Vibe coding arrives**
+Google is pushing "vibe coding" in AI Studio — a more intuitive, conversational way to prototype and build with Gemini. This signals a shift away from rigid prompts toward more natural collaboration with AI.
+Video angle: "Google wants you to 'vibe code' — what does that even mean?"
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Creator Tools
+
+**Claude Design by Anthropic Labs**
+This is the headline for creators. Claude Design lets you collaborate with Claude to make polished visual work — slides, prototypes, one-pagers, design drafts. It's still early (Anthropic Labs is their experimental arm), but this is a direct shot at Canva, Figma, and even Gamma. If you make content about AI tools, this is a must-cover.
+Video angle: "Claude can now design slides for you — I tested it."
+Source: https://www.anthropic.com/news
+
+**Mistral's Voxtral TTS: Open-weight text-to-speech**
+Mistral released Voxtral TTS, a frontier text-to-speech model that's open-weights, fast, and instantly adaptable. It's designed for voice agents and produces "lifelike speech." This is huge for anyone building AI characters, podcasts, or voiceover content.
+Video angle: "Mistral just open-sourced a voice that sounds human — here's how good it is."
+Source: https://mistral.ai/news/
+
+SECTION: AI Video and Image Tools
+
+**Google's Gemini Nano Banana: Detailed image creation and editing**
+Google quietly listed "Nano Banana" in their model lineup — a Gemini variant focused on creating and editing detailed images. The name is weird, but the capability is real. This is Google's answer to the image generation arms race.
+Video angle: "Google's new image model is called Nano Banana — and it's actually good."
+Source: https://deepmind.google/discover/blog/
+
+**Google Veo: Cinematic video with audio**
+Veo is now positioned as Google's flagship video generation model — and it includes audio generation baked in. That's a differentiator from Sora and Runway, which still treat audio as a separate problem.
+Video angle: "Google's Veo can generate video AND audio together — here's what that looks like."
+Source: https://deepmind.google/discover/blog/
+
+**Meta's SAM 3.1: Real-time video detection and tracking**
+Meta upgraded Segment Anything to version 3.1, adding multiplexing and global reasoning for faster, more accessible real-time video detection. This is the backbone of a lot of video editing and AR tools.
+Video angle: "Meta's SAM 3.1 can now track anything in video — in real time."
+Source: https://ai.meta.com/blog/
+
+SECTION: New Model Releases and Features
+
+**Claude Opus 4.7**
+Anthropic's latest Opus model is now live. They're emphasizing improvements in coding, agents, vision, and multi-step tasks — plus "greater thoroughness and consistency." This is their flagship model, and it's clearly aimed at power users and developers.
+Video angle: "Claude Opus 4.7 is here — what's actually new?"
+Source: https://www.anthropic.com/news
+
+**Meta's Muse Spark: Scaling toward personal superintelligence**
+Meta announced Muse Spark, which they're framing as a step toward "personal superintelligence." The details are still thin, but the framing is bold — they're clearly positioning this as a next-generation personalized AI assistant.
+Video angle: "Meta says Muse Spark is the first step to personal superintelligence — what does that mean?"
+Source: https://ai.meta.com/blog/
+
+**Google Gemini Robotics**
+Google DeepMind is pushing Gemini into robotics — perception, reasoning, tool use, and interaction. This is the clearest signal yet that Gemini is being built for embodied AI, not just chatbots.
+Video angle: "Google wants Gemini to control robots — here's their plan."
+Source: https://deepmind.google/discover/blog/
+
+**DeepMind's SIMA 2: An agent that plays, reasons, and learns with you**
+SIMA 2 is a game-playing agent that can reason and learn alongside you. This is DeepMind's continued push into agentic AI through games — a research path that led to AlphaGo and now extends to open-ended environments.
+Video angle: "DeepMind's new agent plays games with you — and learns as it goes."
+Source: https://deepmind.google/discover/blog/
+
+**DeepMind's Genie 3: Generate and explore interactive worlds**
+Genie 3 lets you generate playable, explorable environments from prompts. This is world-model research made tangible — and it's a huge deal for game developers and anyone interested in AI-generated experiences.
+Video angle: "DeepMind's Genie 3 can generate entire playable worlds from a prompt."
+Source: https://deepmind.google/discover/blog/
+
+SECTION: AI Productivity and Business Tools
+
+**Anthropic's election safeguards update**
+Anthropic published an update on how they're handling election-related content and safeguards. With elections happening globally, this is a signal that they're taking content integrity seriously — and it's worth noting for anyone covering AI ethics.
+Video angle: "Anthropic just updated their election rules — here's what changed."
+Source: https://www.anthropic.com/news
+
+**Anthropic and Amazon: Up to 5 gigawatts of new compute**
+Anthropic and Amazon expanded their collaboration to include up to 5 gigawatts of new compute capacity. That's a staggering number — it signals that Anthropic is scaling aggressively and has the infrastructure to back it up.
+Video angle: "Anthropic just secured 5 gigawatts of compute power — what does that mean for Claude?"
+Source: https://www.anthropic.com/news
+
+**Project Glasswing: A coalition to secure critical software**
+Anthropic announced Project Glasswing, a new initiative bringing together AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, the Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks to secure critical software infrastructure. This is a rare cross-industry collaboration with serious implications for AI security.
+Video angle: "The biggest names in tech just teamed up to secure AI — here's what they're building."
+Source: https://www.anthropic.com/news
+
+**Anthropic and NEC: Building Japan's largest AI engineering workforce**
+Anthropic is partnering with NEC to train and scale Japan's AI engineering talent. This is a significant international expansion and a sign that Anthropic is thinking globally.
+Video angle: "Anthropic is training Japan's next generation of AI engineers — here's why."
+Source: https://www.anthropic.com/news
+
+**Google's Gemini API prepay option**
+Google now lets you prepay for the Gemini API, giving developers more control over spend. This is a small but meaningful update for anyone building on top of Gemini.
+Video angle: "Google's new prepay option for Gemini API — should you use it?"
+Source: https://blog.google/technology/ai/
+
+TODAY'S PRIORITY
+
+Cover Claude Design first. It's brand new, it's visual, and it's the kind of tool your audience can immediately test and react to. The hook writes itself: "Claude can now make slides, prototypes, and designs — I tried it." This is a 60-second Short that can go up today and ride the launch wave.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. **"Claude can now design slides for you — I tested it."**
+Hook: "Anthropic just launched Claude Design. I gave it a one-pager to make — here's what happened."
+Why it works: New tool, visual output, easy to demo, high curiosity. Perfect Short format.
+
+2. **"Mistral just open-sourced a voice that sounds human."**
+Hook: "This is Voxtral. It's free, it's open-weight, and it sounds like this."
+Why it works: Audio tools are underrated content. Play samples, compare to ElevenLabs, show how to use it. Easy 60-second Short.
+
+3. **"DeepMind's Genie 3 can generate entire playable worlds from a prompt."**
+Hook: "I typed in a sentence. It gave me a world I could walk around in."
+Why it works: Visual, futuristic, and deeply shareable. If you can get early access or demo footage, this is a banger.
