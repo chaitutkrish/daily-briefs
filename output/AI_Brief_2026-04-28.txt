@@ -1,0 +1,111 @@
+AI DAILY BRIEF — April 28, 2026
+
+OPENING:
+Anthropic just dropped something that could reshape how creators actually use AI. Today they announced "Claude for Creative Work" — and while details are still emerging, this comes hot on the heels of Claude Design (their visual collaboration tool from April 17th) and the powerhouse Opus 4.7 release. Anthropic is clearly making a coordinated push to own the creative AI space, not just the coding and productivity corners. If you make content, this is the company watching you right now.
+
+SECTION: Agentic AI and Coding
+
+Anthropic's Project Deal proves AI can negotiate like a human
+Anthropic created an internal marketplace where Claude bought, sold, and negotiated on behalf of employees. This isn't a chatbot answering questions — it's an AI agent making real economic decisions with real stakes. The implications for e-commerce, real estate, and any transactional business are massive.
+Video angle: "I let an AI negotiate my salary — here's what happened" style breakdown of what agentic negotiation actually looks like.
+Source: https://www.anthropic.com/research
+
+Google's new AI Agents Vibe Coding Course
+Google and Kaggle launched a course specifically for "vibe coding" with AI agents in AI Studio. This is Google acknowledging that the future of coding isn't typing — it's directing AI agents through natural language.
+Video angle: Perfect 60-second Short showing the difference between traditional coding and vibe coding side-by-side.
+Source: https://blog.google/technology/ai/
+
+Hugging Face: OpenRA-RL brings AI agents to real-time strategy games
+A new open platform lets AI agents learn and compete in RTS games. Gaming has always been AI's proving ground (remember AlphaGo?), and this democratizes that research.
+Video angle: Quick visual of AI agents playing strategy games with the hook "This is how AI learns to think three moves ahead."
+Source: https://huggingface.co/blog
+
+SECTION: AI Creator Tools
+
+Claude for Creative Work — Anthropic's newest announcement
+Announced today. Details are thin but the timing alongside Claude Design suggests Anthropic is building a full creative suite. Watch this space.
+Video angle: Speculation piece — "Anthropic just declared war on Adobe" with breakdown of their recent creative releases.
+Source: https://www.anthropic.com/news
+
+Claude Design by Anthropic Labs
+Launched April 17th, this tool lets you collaborate with Claude to create polished visual work — designs, prototypes, slides, one-pagers. It's positioned as creative collaboration, not just generation.
+Video angle: Strong 60-second demo potential. Show Claude Design creating a pitch deck in real-time. Hook: "I designed a $10M pitch deck with an AI in 3 minutes."
+Source: https://www.anthropic.com/news
+
+Mistral Workflows enters public preview
+Mistral's Workflows feature is now available to everyone. This lets you chain AI tasks together — think automated content pipelines, research workflows, or multi-step business processes.
+Video angle: "Automate your entire content workflow with this one Mistral feature" — show a practical creator use case.
+Source: https://mistral.ai/news/
+
+SECTION: AI Video and Image Tools
+
+Google's Gemini Drop for April includes personalized image creation
+The Gemini app now has new ways to create personalized images. Google is pushing hard on making AI-generated visuals feel like *your* visuals, not generic outputs.
+Video angle: Quick demo of personalized image generation with the hook "Google just made generic AI art obsolete."
+Source: https://blog.google/technology/ai/
+
+Meta's SAM 3.1 brings faster real-time video detection
+Released March 27th, SAM 3.1 adds multiplexing and global reasoning for faster video segmentation and tracking. This is the tech that makes "select anything in a video" actually usable at scale.
+Video angle: Show the speed difference between SAM versions. Hook: "Meta just made video editing 10x faster."
+Source: https://ai.meta.com/blog/
+
+DeepMind's Veo for cinematic video generation
+Veo generates cinematic video with audio. Listed prominently on DeepMind's model page — this is their answer to Sora and Runway.
+Video angle: Compare outputs from different video AI tools. Hook: "Google's secret video AI just leaked."
+Source: https://deepmind.google/discover/blog/
+
+SECTION: New Model Releases and Features
+
+Claude Opus 4.7 — Anthropic's most capable model yet
+Released April 16th. Stronger performance across coding, agents, vision, and multi-step tasks. Anthropic specifically emphasizes "thoroughness and consistency on the work that matters most" — they're positioning this as the professional's AI.
+Video angle: Head-to-head comparison with GPT-4.5 or Gemini on a complex task. Hook: "The AI wars just got interesting — here's the new leader."
+Source: https://www.anthropic.com/news
+
+DeepMind's SIMA 2 — an agent that plays, reasons, and learns with you
+Listed as a breakthrough. SIMA 2 is an AI agent that can play games, reason about them, and learn alongside humans. This is a step toward general-purpose AI companions.
+Video angle: Show SIMA 2 gameplay with narration about what makes this different from previous game-playing AI.
+Source: https://deepmind.google/discover/blog/
+
+Meta's Muse Spark — "Scaling Towards Personal Superintelligence"
+Announced April 8th. Meta is explicitly using the phrase "personal superintelligence." This is bold positioning — they're not talking about an assistant, they're talking about an AI that's genuinely smarter than you, personalized to you.
+Video angle: Break down what "personal superintelligence" actually means. Hook: "Meta just promised you a genius in your pocket."
+Source: https://ai.meta.com/blog/
+
+Gemma 4 VLA running on Jetson Orin Nano
+Hugging Face is showcasing Gemma 4 VLA (Vision-Language-Action) running on edge hardware. This is powerful AI running locally on small devices.
+Video angle: "Your next robot runs this AI" — show the hardware and explain why edge AI matters.
+Source: https://huggingface.co/blog
+
+SECTION: AI Productivity and Business Tools
+
+Anthropic's election safeguards update
+Anthropic published an update on their election safeguards ahead of the 2026 midterms. They're taking a public stance on responsible AI during elections.
+Video angle: Less of a Short, more context for longer content about AI and democracy.
+Source: https://www.anthropic.com/news
+
+Google Gemini API now offers prepaid billing
+You can now prepay for Gemini API access to control spending. Small but meaningful for developers building AI apps.
+Video angle: Skip for Shorts — too niche.
+Source: https://blog.google/technology/ai/
+
+Project Glasswing — major security alliance announced
+Anthropic brought together Amazon, Apple, Google, Microsoft, NVIDIA, and others to secure critical AI software. This is an unprecedented coalition for AI security.
+Video angle: "Every major AI company just agreed on ONE thing" — explain why this matters for AI safety.
+Source: https://www.anthropic.com/news
+
+TODAY'S PRIORITY
+Make content about Claude for Creative Work immediately. It's today's announcement, it's from a major player, and it connects to a larger story about Anthropic building a full creative AI suite. The hook practically writes itself: "Anthropic just launched something that makes them a direct threat to every creative tool you use." Get ahead of this before details emerge and everyone else covers it.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic is building the AI creative suite you didn't see coming"
+Hook: Start with Claude for Creative Work, connect it to Claude Design, connect it to Opus 4.7's vision capabilities. The story is Anthropic quietly building a creative empire while everyone focuses on ChatGPT.
+Why it works: Narrative arc, connects dots viewers haven't connected, positions you as someone who sees the bigger picture.
+
+2. "Google just launched a course on the future of coding — and it's not what you think"
+Hook: Show traditional coding, then show vibe coding. Explain that Google is officially teaching people to code by talking to AI. The visual contrast is strong and the implications are massive for anyone learning to code.
+Why it works: Great for 60-second format, clear before/after, relevant to huge audience of people learning tech skills.
+
+3. "Meta said the quiet part out loud — they're building personal superintelligence"
+Hook: Flash the words "personal superintelligence" on screen. Explain that Meta isn't calling Muse Spark an assistant — they're calling it something smarter than you, customized to you. What does that actually mean?
+Why it works: Provocative framing, gets at the bigger AI conversation people are having, Meta is always engagement-worthy.
