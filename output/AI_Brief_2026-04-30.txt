@@ -1,0 +1,123 @@
+AI DAILY BRIEF — April 30, 2026
+
+OPENING:
+Mistral just dropped remote coding agents inside Vibe yesterday, and that changes everything for the agentic AI race. We're watching the "AI does your job while you sleep" category heat up in real time — and Mistral is now directly competing with Anthropic's Claude for the "let AI run multi-step coding tasks autonomously" crown. If you make content about AI tools, this is a week where the agentic storyline dominates.
+
+---
+
+SECTION: Agentic AI and Coding
+
+Mistral Medium 3.5 + Remote Agents in Vibe
+Mistral announced remote coding agents inside Vibe, their developer environment, powered by their new Mistral Medium 3.5 model. This means you can now spin up AI agents that execute multi-step coding tasks remotely — not just autocomplete, but actual autonomous workflows. There's also a new "Work mode" in Le Chat for complex tasks.
+Video angle: "Mistral just launched AI agents that code for you remotely — here's what that actually means"
+Source: https://mistral.ai/news/
+
+Anthropic's Project Deal
+Anthropic created an internal marketplace where Claude acted as a buying, selling, and negotiating agent on behalf of employees. This is a fascinating look at how agentic AI handles real-world negotiation dynamics — not just task completion, but persuasion and deal-making.
+Video angle: "Anthropic let Claude negotiate deals for its employees — here's what happened"
+Source: https://www.anthropic.com/research
+
+Google's AI Agents Vibe Coding Course
+Google and Kaggle launched a new course on "vibe coding" with AI agents — teaching developers how to work alongside AI in a more intuitive, conversational way. This is Google leaning into the "agents as collaborators" narrative.
+Video angle: "Google is teaching a new way to code with AI — it's called vibe coding"
+Source: https://blog.google/technology/ai/
+
+---
+
+SECTION: AI Creator Tools
+
+Claude Design by Anthropic Labs
+Anthropic launched Claude Design on April 17 — a new product that lets you collaborate with Claude to create polished visual work: designs, prototypes, slides, one-pagers. This is Anthropic's direct play into the Canva/Figma AI space, but with conversational iteration.
+Video angle: "Claude can now design slides and prototypes with you — I tested it"
+Source: https://www.anthropic.com/news
+
+Gemini File Generation
+Google announced you can now easily generate files directly in Gemini. This is part of the April Gemini Drop — expanding what the assistant can output beyond text.
+Video angle: "Gemini can now create files for you — here's how it works"
+Source: https://blog.google/technology/ai/
+
+Personalized Image Generation in Gemini
+Google added new ways to create personalized images in the Gemini app — likely meaning more control over style, subjects, and outputs.
+Video angle: "Gemini's new image tools let you customize exactly what you want"
+Source: https://blog.google/technology/ai/
+
+---
+
+SECTION: AI Video and Image Tools
+
+DeepMind Veo (Video) and Imagen (Images)
+DeepMind's Veo generates cinematic video with audio, and Imagen generates high-quality images from text. Both are featured prominently on their blog — suggesting active development and likely upcoming updates.
+Video angle: "DeepMind's video AI now adds audio automatically — here's what that looks like"
+Source: https://deepmind.google/discover/blog/
+
+Meta SAM 3.1
+Meta released SAM 3.1 — faster real-time video detection and tracking with multiplexing and global reasoning. This is the Segment Anything Model getting even more powerful for video applications.
+Video angle: "Meta's SAM 3.1 can now track anything in video in real time"
+Source: https://ai.meta.com/blog/
+
+---
+
+SECTION: New Model Releases and Features
+
+Claude Opus 4.7 (Anthropic)
+Released April 16 — stronger performance across coding, agents, vision, and multi-step tasks. Anthropic emphasizes "thoroughness and consistency on the work that matters most." This is the flagship model getting a meaningful upgrade.
+Video angle: "Claude's new Opus 4.7 is built for agents and hard problems — what's different"
+Source: https://www.anthropic.com/news
+
+Mistral Medium 3.5
+Powers the new remote agents in Vibe and Work mode in Le Chat. Mistral is positioning this as their workhorse model for complex, agentic tasks.
+Video angle: "Mistral's new model is designed to run agents — here's why that matters"
+Source: https://mistral.ai/news/
+
+Meta Muse Spark
+Meta introduced Muse Spark on April 8, described as "Scaling Towards Personal Superintelligence." This is Meta's bet on personalized, capable AI that scales with you — likely a foundation for more advanced Meta AI assistants.
+Video angle: "Meta just announced 'personal superintelligence' — what does that even mean?"
+Source: https://ai.meta.com/blog/
+
+DeepMind SIMA 2
+An agent that "plays, reasons, and learns with you" — DeepMind's latest game-playing AI that's designed to be a collaborative partner, not just a benchmark-beater.
+Video angle: "DeepMind's SIMA 2 learns games WITH you, not just against you"
+Source: https://deepmind.google/discover/blog/
+
+---
+
+SECTION: AI Productivity and Business Tools
+
+Claude Stays Ad-Free
+Anthropic announced Claude will remain ad-free, arguing that advertising incentives are incompatible with a genuinely helpful AI assistant. This is a values statement with real product implications.
+Video angle: "Why Anthropic says Claude will NEVER have ads"
+Source: https://www.anthropic.com/news
+
+Project Glasswing (AI Security Coalition)
+Anthropic announced a massive security initiative with AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks. Goal: secure the world's most critical software.
+Video angle: "The biggest companies in tech just teamed up to secure AI — here's why"
+Source: https://www.anthropic.com/news
+
+Gemini API Prepay Option
+Google now lets you prepay for the Gemini API to get more control over spend — useful for developers who want predictable costs.
+Video angle: "Google's new Gemini API pricing gives you more control — here's how"
+Source: https://blog.google/technology/ai/
+
+---
+
+TODAY'S PRIORITY
+
+Make content about Mistral's remote coding agents in Vibe first.
+
+Why: This is the freshest news (April 29), it's in the hottest category (agentic AI), and it directly competes with Anthropic's agent push. The "AI that codes for you while you sleep" angle is evergreen for views, and Mistral is underrated by most audiences. You can position yourself as covering the full AI landscape, not just OpenAI and Anthropic.
+
+---
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Mistral just launched AI agents that code for you remotely — here's what that means"
+Hook: "What if an AI could run coding tasks for you... while you're asleep?"
+Why it works: Agentic AI is the hottest topic, Mistral is newsworthy, and the "remote agent" angle is visceral and easy to explain in 60 seconds.
+
+2. "Anthropic let Claude negotiate real deals for its employees — here's what happened"
+Hook: "Anthropic just tested if Claude could buy and sell things for real. The results are wild."
+Why it works: Storytelling potential, unique experiment, shows AI doing something unexpected and human. Perfect for a 60-second narrative Short.
+
+3. "Claude can now design slides and prototypes with you — I tested it"
+Hook: "You can now make Canva-style designs just by talking to Claude."
+Why it works: Creator tools get high engagement, this is new (April 17), and it's a hands-on demo opportunity. Visual payoff is strong.
