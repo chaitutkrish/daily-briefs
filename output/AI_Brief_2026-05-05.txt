@@ -1,0 +1,68 @@
+AI DAILY BRIEF — May 05, 2026
+
+OPENING:
+Anthropic just made a massive move into Wall Street. Today they announced "Agents for Financial Services" — purpose-built AI agents designed specifically for the finance industry. This comes just one day after revealing a new enterprise AI services company backed by Blackstone, Hellman & Friedman, and Goldman Sachs. We're watching Anthropic shift from "AI lab that makes Claude" to "AI infrastructure company that powers entire industries." The agentic era isn't coming — it's here, and the money is following.
+
+SECTION: Agentic AI and Coding
+
+Anthropic launches Agents for Financial Services — dedicated AI agents built for finance workflows. This is significant because it signals Anthropic moving beyond general-purpose Claude toward vertical-specific agent products. Video angle: "Why AI agents are coming for Wall Street first" — explain what agentic AI means for industries where precision and compliance matter most.
+Source: https://www.anthropic.com/news
+
+Mistral drops remote coding agents in Vibe, powered by their new Medium 3.5 model. "Remote agents" means these can execute code and work on your behalf in cloud environments. They also added a "Work mode" in Le Chat for complex, multi-step tasks. Video angle: Show what "remote agents" actually do differently than chat-based coding assistants — the shift from "suggest code" to "write and deploy code."
+Source: https://mistral.ai/news/
+
+Google and Kaggle launched an "AI Agents Vibe Coding Course" — free education on building agentic systems. Video angle: Quick breakdown of what the course covers and whether it's worth your time if you're trying to learn agentic development.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Creator Tools
+
+Anthropic introduces Claude Design via their Anthropic Labs division. It lets you collaborate with Claude to create "polished visual work like designs, prototypes, slides, one-pagers, and more." This is huge for creators — it's Anthropic entering the Canva/Figma-adjacent space with AI-native design. Video angle: This is a 60-second Short — "Anthropic just made a design tool and it's not what you think." Show what Claude Design can actually produce.
+Source: https://www.anthropic.com/news
+
+Claude for Creative Work announcement from Anthropic (April 28). Details weren't fully scraped, but this signals a broader creative push beyond just text. Worth monitoring.
+Source: https://www.anthropic.com/news
+
+SECTION: AI Video and Image Tools
+
+Google's Gemini app now lets you "easily generate files" and create "personalized images" — these updates dropped in the April Gemini Drop. Video angle: Quick demo-style Short showing the new image personalization features and what "generate files" actually means in practice.
+Source: https://blog.google/technology/ai/
+
+Google DeepMind's model lineup now includes Veo (cinematic video with audio), Imagen (images from text), Lyria (music/audio), and the new Nano Banana for "detailed images." Video angle: A quick comparison reel — "Google has 4 different AI media tools now — here's what each one does."
+Source: https://deepmind.google/discover/blog/
+
+SECTION: New Model Releases and Features
+
+Claude Opus 4.7 launched April 16 — stronger coding, agents, vision, and multi-step tasks. Anthropic emphasizes "thoroughness and consistency" which suggests they're targeting enterprise reliability over raw speed.
+Source: https://www.anthropic.com/news
+
+Mistral Medium 3.5 released — this powers their new remote coding agents and Vibe platform. Mistral is positioning this as their workhorse model for complex tasks.
+Source: https://mistral.ai/news/
+
+Meta's Muse Spark introduced April 8 — described as "Scaling Towards Personal Superintelligence." The framing is bold. This appears to be Meta's play toward highly personalized AI assistants.
+Source: https://ai.meta.com/blog/
+
+Google DeepMind's SIMA 2 — "An agent that plays, reasons, and learns with you." This is their gaming/interactive AI agent. Genie 3 generates "interactive worlds." These are research-stage but show where embodied AI is heading.
+Source: https://deepmind.google/discover/blog/
+
+SECTION: AI Productivity and Business Tools
+
+Anthropic partners with Blackstone, Hellman & Friedman, and Goldman Sachs to build a new enterprise AI services company. This is infrastructure-level — they're building the plumbing for how big companies will deploy AI. Video angle: "Anthropic just raised money from Wall Street to build AI for Wall Street."
+Source: https://www.anthropic.com/news
+
+Project Glasswing from Anthropic (April 7) — a coalition including AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks to "secure the world's most critical software." This is about AI security infrastructure. Video angle: "Every big tech company just joined forces — here's why."
+Source: https://www.anthropic.com/news
+
+Google's Webhooks in Gemini API — reduces friction for long-running jobs. Developer-focused but important for anyone building AI tools.
+Source: https://blog.google/technology/ai/
+
+TODAY'S PRIORITY
+
+Make content about Claude Design first. Here's why: It's brand new, it's visual (which means demo-friendly), and it's Anthropic entering a completely new product category. Most people still think of Claude as "ChatGPT's competitor" — this reframes them as a design tool company too. The contrast is striking and shareable.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic just made a design tool" — Hook: "The company behind Claude just launched something that isn't a chatbot." Show what Claude Design actually produces. Works because it's unexpected and visual. Perfect 60-second Short.
+
+2. "AI agents are coming for your job — but not the one you think" — Hook: "The first industry getting AI agents isn't tech. It's finance." Explain Anthropic's financial services agents and why Wall Street is the testing ground. Works because it subverts expectations and has real stakes.
+
+3. "Every big tech company just formed an alliance" — Hook: "Apple, Google, Microsoft, Amazon, and NVIDIA just joined the same team. Here's what they're building." Cover Project Glasswing. Works because the coalition is genuinely unprecedented and sounds like a movie plot.
