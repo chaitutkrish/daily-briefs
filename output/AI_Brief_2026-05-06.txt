@@ -1,0 +1,69 @@
+AI DAILY BRIEF — May 06, 2026
+
+OPENING:
+
+Today's lead story is all about scale and access. Anthropic just announced higher usage limits for Claude alongside a compute deal with SpaceX — yes, that SpaceX — suggesting the AI infrastructure race is now officially intersecting with the space race. When your AI company needs satellite-grade compute partnerships, you know we're in a different era. Meanwhile, the enterprise AI space is heating up with Anthropic building a new AI services company backed by Blackstone, Goldman Sachs, and Hellman & Friedman. The money is moving fast, and it's moving big.
+
+SECTION: Agentic AI and Coding
+
+Anthropic launched "Agents for financial services" yesterday, expanding Claude's agentic capabilities into one of the most regulated, high-stakes industries on the planet. This isn't just chatbot stuff — we're talking AI that can execute multi-step workflows in finance. Video angle: "Why banks are trusting AI agents with your money now" — show the progression from chatbots to autonomous financial workflows.
+Source: https://www.anthropic.com/news
+
+Mistral dropped remote coding agents in Vibe, powered by their new Mistral Medium 3.5 model. The "remote" part is key — these agents can work on code that lives elsewhere, not just in your local environment. They also added a "Work mode" in Le Chat for tackling complex multi-step tasks. Video angle: Compare Mistral's Vibe coding agents to Claude's computer use and Cursor — who's winning the AI coding wars right now?
+Source: https://mistral.ai/news/
+
+SECTION: AI Creator Tools
+
+Anthropic Labs launched Claude Design — a tool for creating polished visual work like designs, prototypes, slides, and one-pagers collaboratively with Claude. This is Anthropic's first real push into the visual/design space, and it's positioned as a collaboration tool, not just a generator. Video angle: "Claude can now design your pitch deck" — show a before/after of building a one-pager with Claude Design vs. doing it manually. This is absolutely a 60-second Short: screen record yourself prompting Claude Design, show the output, react.
+Source: https://www.anthropic.com/news
+
+Google Gemini app now lets you easily generate files directly in the app, per their April Gemini Drop. Plus new ways to create personalized images. Video angle: Quick tutorial on the new file generation feature — "Gemini just became your file assistant."
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Video and Image Tools
+
+Google's Nano Banana model is live — positioned as a tool to "create and edit detailed images." The name is wild, but the focus on editing (not just generation) is the real story. Video angle: Test Nano Banana's editing capabilities against Midjourney and see if it can actually compete.
+Source: https://deepmind.google/discover/blog/
+
+Google's Veo continues to be their flagship for cinematic video with audio. No new release today, but it's worth tracking as the video generation space heats up.
+Source: https://deepmind.google/discover/blog/
+
+SECTION: New Model Releases and Features
+
+Anthropic's Claude Opus 4.7 dropped April 16 with stronger performance across coding, agents, vision, and multi-step tasks. The emphasis on "thoroughness and consistency" suggests they're targeting reliability — the thing that makes or breaks real-world AI deployment. Video angle: Run a head-to-head reliability test between Opus 4.7 and GPT-4 on a complex multi-step task.
+Source: https://www.anthropic.com/news
+
+Mistral Medium 3.5 is now powering their new remote coding agents and Work mode. No standalone model announcement, but this is clearly their workhorse for agentic tasks.
+Source: https://mistral.ai/news/
+
+Meta's Muse Spark was announced April 8 with the tagline "Scaling Towards Personal Superintelligence." That's a bold claim. They're also talking about MTIA chips — Meta's custom AI silicon — with "four chips in two years" to serve billions. Video angle: "Meta just said 'personal superintelligence' out loud — here's what they mean."
+Source: https://ai.meta.com/blog/
+
+Google Gemini's API File Search is now multimodal, enabling efficient, verifiable RAG (retrieval-augmented generation). For developers, this is huge — you can now build apps that search across different file types with verification built in.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Productivity and Business Tools
+
+Anthropic announced it's building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs. This is private equity meets frontier AI — expect enterprise deployments to accelerate. Video angle: "The biggest names in finance just bet billions on Claude."
+Source: https://www.anthropic.com/news
+
+Anthropic also released "Claude for Creative Work" on April 28 — positioning Claude as a creative partner, not just a productivity tool. Video angle: Show how Claude handles a creative brief vs. a business brief.
+Source: https://www.anthropic.com/news
+
+Project Glasswing from Anthropic brings together AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks to secure critical software. This is an unprecedented coalition. Video angle: "Every major tech company just agreed on one thing — here's what it means."
+Source: https://www.anthropic.com/news
+
+TODAY'S PRIORITY
+
+Lead with the SpaceX compute deal. Anthropic partnering with SpaceX for compute is genuinely novel — it bridges two of the most forward-looking industries in tech. The visual hook writes itself: Claude + rockets. This is the story that will stop the scroll.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic just made a deal with SpaceX — here's why AI needs space now"
+Hook: Open with "Your AI assistant might be running on satellite power soon." Explain the compute bottleneck, why SpaceX makes sense, what this means for AI infrastructure. This works because it's unexpected and visual — rockets + AI = curiosity.
+
+2. "I designed a pitch deck with Claude's new design tool in 60 seconds"
+Hook: Screen record yourself giving Claude Design a brief, show the output in real-time, react to the quality. This works because it's immediately useful and demonstrable — viewers will want to try it.
+
+3. "Every big tech company just agreed on one thing for the first time ever"
+Hook: Show the list of Project Glasswing partners (Apple, Google, Microsoft, Amazon, NVIDIA all together). Explain what critical software security means and why this coalition is unprecedented. This works because the coalition itself is the story — rivals working together is inherently interesting.
