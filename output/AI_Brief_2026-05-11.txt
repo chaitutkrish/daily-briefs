@@ -1,0 +1,79 @@
+AI DAILY BRIEF — May 11, 2026
+
+OPENING:
+The big story today isn't a single product drop — it's the emerging pattern of AI companies racing to prove their models can actually *do* things in the real world. Anthropic just published research on teaching Claude to explain its own reasoning ("Teaching Claude why"), Meta is scaling toward what they're calling "Personal Superintelligence" with Muse Spark, and Mistral quietly dropped remote coding agents that work inside their Vibe environment. We're past the "look what AI can generate" era. Now it's "look what AI can accomplish autonomously" — and every major lab is positioning for that shift.
+
+SECTION: Agentic AI and Coding
+
+Mistral launched remote coding agents inside Vibe, powered by their new Medium 3.5 model. This is significant — Vibe is Mistral's IDE competitor, and now it has agents that can work on your codebase remotely. Think Cursor or Windsurf, but European and increasingly capable. The addition of a "Work mode" in Le Chat for complex tasks signals they're building a full productivity stack around agents, not just chat.
+Source: https://mistral.ai/news/
+
+Anthropic published "Teaching Claude why" — new research on reducing agentic misalignment. This is the safety side of the agentic push. When Claude is acting autonomously (browsing, coding, executing multi-step plans), the risk of it doing the wrong thing for plausible-sounding reasons goes up. This research addresses that directly. Video angle: "The hidden problem with AI agents nobody's talking about."
+Source: https://www.anthropic.com/research
+
+Anthropic also released research called "Project Deal" — they created an internal marketplace and tasked Claude with buying, selling, and negotiating on employees' behalf. This is fascinating live-fire testing of agentic capabilities in an economic context. The implications for AI negotiation in business contexts are massive.
+Source: https://www.anthropic.com/research
+
+SECTION: AI Creator Tools
+
+Claude Design launched via Anthropic Labs — a new product for creating polished visual work including designs, prototypes, slides, and one-pagers collaboratively with Claude. This is Anthropic's first serious move into the visual/design space. For creators, this could be a Canva competitor with conversational interface. Worth testing immediately for thumbnail creation, pitch decks, and video planning documents.
+Source: https://www.anthropic.com/news
+
+Google's Gemini app now lets you generate files directly in the app (April Gemini Drop). This sounds small but it's a workflow shift — you can go from conversation to deliverable without leaving the interface. Useful for scripts, outlines, anything you'd normally copy-paste out.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Video and Image Tools
+
+Google DeepMind's model lineup now includes Veo for cinematic video with audio, Imagen for images, and Lyria for music/audio generation — all accessible through their platform. The integration of audio into video generation (Veo) is the key detail here. This is the direction everything is heading: not just video, but video with synchronized, generated audio.
+Source: https://deepmind.google/discover/blog/
+
+Meta released SAM 3.1 — faster real-time video detection and tracking with "multiplexing and global reasoning." This is the Segment Anything Model getting meaningfully faster and smarter at video. For creators using SAM for rotoscoping, object removal, or compositing, this is a direct upgrade. Video angle: Show the speed difference between SAM 2 and 3.1 on the same clip.
+Source: https://ai.meta.com/blog/
+
+SECTION: New Model Releases and Features
+
+Claude Opus 4.7 is here — Anthropic's latest flagship with stronger performance on coding, agents, vision, and multi-step tasks. The emphasis is on "thoroughness and consistency on the work that matters most." Translation: better at complex, real-world workflows, not just benchmarks. If you're building anything agentic on Claude, this is the model to use now.
+Source: https://www.anthropic.com/news
+
+Mistral Medium 3.5 dropped alongside the Vibe agent features. This is their mid-tier model, but "medium" at Mistral has historically punched above its weight. Powers the new remote coding agents. Worth benchmarking against Claude 3.5 Sonnet and GPT-4o for coding tasks.
+Source: https://mistral.ai/news/
+
+Google DeepMind listed Gemma 4 with new acceleration via multi-token prediction drafters — this is about making inference faster for their open-weight models. If you're running local AI, this matters. Faster Gemma means more practical local deployment.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Productivity and Business Tools
+
+Anthropic announced "Agents for financial services" — a dedicated offering for the finance sector. This is enterprise-focused but signals where high-value agent deployment is happening first: anywhere there's repetitive, high-stakes document and data work.
+Source: https://www.anthropic.com/news
+
+Anthropic also announced a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs. This is a massive infrastructure play — they're building the consulting/implementation layer for enterprise Claude deployment with some of the biggest names in finance and private equity.
+Source: https://www.anthropic.com/news
+
+Higher usage limits for Claude plus a compute deal with SpaceX. The SpaceX angle is intriguing — presumably related to satellite-based compute or connectivity for remote/global access. Worth watching.
+Source: https://www.anthropic.com/news
+
+Gemini API File Search is now multimodal — you can build RAG systems that search across text, images, and other file types. This is a big deal for anyone building retrieval-augmented apps. Your AI can now "look through" mixed-media documents.
+Source: https://blog.google/technology/ai/
+
+SECTION: Research and Safety
+
+Anthropic's Interpretability team published "Natural Language Autoencoders: Turning Claude's thoughts into text" — they're training Claude to translate its internal numerical representations into human-readable explanations. This is foundational safety research. If we can read what the model is "thinking," we can catch problems before they become outputs. Video angle: "Scientists can now read AI's mind — here's what they found."
+Source: https://www.anthropic.com/research
+
+Project Glasswing brings together AWS, Anthropic, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks to secure critical software. This is an unprecedented coalition. When Apple, Google, Microsoft, and Anthropic are all in the same room on security, something big is being coordinated.
+Source: https://www.anthropic.com/news
+
+Meta published "Scaling How We Build and Test Our Most Advanced AI" — focusing on reliability, security, and user protections as they build toward more capable, personalized AI. This is their safety narrative as Muse Spark scales.
+Source: https://ai.meta.com/blog/
+
+TODAY'S PRIORITY
+
+Make content about Claude Design first. It's Anthropic's surprise entry into the visual creation space, it's brand new (launched April 17), and almost nobody in the creator space is talking about it yet. The angle: "Anthropic just launched a Canva killer and nobody noticed." Test it live, show what it can make, compare it to existing tools. This has a 48-72 hour window before everyone covers it.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. "Anthropic just launched a design tool — here's what it can actually make" — Hook: "Claude can make slides now. And logos. And prototypes. I tested it." Why it works: New product, visual results, easy to demo in 60 seconds, Anthropic brand recognition.
+
+2. "AI can now explain what it's thinking in plain English" — Hook: "Scientists just taught AI to translate its own thoughts into words we can read." Why it works: The Natural Language Autoencoders research is genuinely wild, sounds sci-fi, easy to explain with simple visuals. Perfect 60-second explainer.
+
+3. "The hidden war for AI agents" — Hook: "Mistral, Anthropic, and Google are all racing to build AI that works for you automatically. Here's who's winning." Why it works: Synthesizes the agentic trend across companies, positions you as someone tracking the whole space, evergreen topic with fresh examples.
