@@ -1,0 +1,91 @@
+AI DAILY BRIEF — May 15, 2026
+
+OPENING:
+The biggest story today isn't a single product launch — it's Anthropic quietly becoming an enterprise juggernaut. Yesterday they announced a $200 million Gates Foundation partnership, and today PwC is deploying Claude to "build technology, execute deals, and reinvent enterprise functions." That's not a pilot program. That's one of the Big Four consulting firms handing Claude the keys to client work. When the gatekeepers to Fortune 500 transformation start building on your AI, you've crossed from "promising startup" to "infrastructure layer."
+
+SECTION: Agentic AI and Coding
+
+**Mistral drops remote coding agents in Vibe**
+Mistral Medium 3.5 now powers remote coding agents inside their Vibe environment, plus a new "Work mode" in Le Chat for complex multi-step tasks. This is Mistral's clearest move yet into the agentic coding space that Anthropic and OpenAI have been dominating. Video angle: Compare Vibe's remote agents to Cursor or Claude Code in a real coding task — which one actually ships?
+Source: https://mistral.ai/news/
+
+**Anthropic's "Teaching Claude Why" research on agentic misalignment**
+New alignment research from Anthropic claims progress on reducing misalignment specifically in agentic scenarios — when Claude is taking autonomous actions, not just answering questions. This is the safety work that matters most as agents become real products. Video angle: Explain what "agentic misalignment" actually means with a concrete example — when would an AI agent do the wrong thing for the "right" reasons?
+Source: https://www.anthropic.com/research
+
+SECTION: AI Creator Tools
+
+**Claude Design launches from Anthropic Labs**
+This is a new product that lets you collaborate with Claude to create "polished visual work like designs, prototypes, slides, one-pagers." This positions Claude as a creative partner, not just a code/text model. If it works, it's a direct shot at Canva AI and the entire presentation/design tool market. Video angle: Test Claude Design vs. Canva Magic Design vs. manual work — can Claude actually design, or is this just templates with extra steps?
+Source: https://www.anthropic.com/news
+
+**Gemini's April Drop: Easy file generation**
+Google's Gemini app now lets you "easily generate files" directly in the interface. Details are sparse, but this suggests Gemini is moving toward artifact creation (documents, code files, etc.) similar to Claude's artifact feature. Video angle: A quick 60-second demo showing what file types Gemini can now create and whether they're actually usable.
+Source: https://blog.google/technology/ai/
+
+SECTION: AI Video and Image Tools
+
+**Google's Veo, Imagen, and Lyria models now featured prominently**
+DeepMind is highlighting Veo for "cinematic video with audio," Imagen for images, and Lyria for "high fidelity music and audio." These aren't new today, but Google is clearly positioning these as their creative stack. Video angle: Not breaking news, but worth a comparison video — Google's creative suite vs. Runway vs. Pika vs. Suno.
+Source: https://deepmind.google/discover/blog/
+
+SECTION: New Model Releases and Features
+
+**Claude Opus 4.7 is live**
+Anthropic's latest flagship model promises "stronger performance across coding, agents, vision, and multi-step tasks" with "greater thoroughness and consistency." Released April 16, now fully deployed. Video angle: Put Opus 4.7 through a brutal multi-step task — something requiring research, reasoning, and code — and show where it shines or breaks.
+Source: https://www.anthropic.com/news
+
+**Mistral Medium 3.5 released**
+Powers the new Vibe remote agents and Work mode in Le Chat. Mistral is positioning this as their enterprise-grade reasoning model. Video angle: Mistral Medium 3.5 vs. Claude 3.5 Sonnet vs. GPT-4o on a complex reasoning task — who wins on quality AND speed?
+Source: https://mistral.ai/news/
+
+**Meta's Muse Spark: "Scaling Towards Personal Superintelligence"**
+Meta dropped this April 8, calling it a step toward "personal superintelligence" — a bold phrase. Details are thin in the scrape, but the framing suggests a personalized AI that learns and adapts to individual users at a much deeper level. Video angle: Explain what "personal superintelligence" could actually mean — and whether Meta is overselling or onto something real.
+Source: https://ai.meta.com/blog/
+
+SECTION: AI Productivity and Business Tools
+
+**Claude for Small Business launches**
+Anthropic now has a dedicated offering for small businesses, separate from their enterprise tier. This is about expanding Claude's reach beyond developers and large companies. Video angle: What does Claude for Small Business actually include? A breakdown for solopreneurs and small team owners.
+Source: https://www.anthropic.com/news
+
+**Higher usage limits + SpaceX compute deal**
+Anthropic increased usage limits for Claude users and announced a compute deal with SpaceX. That SpaceX angle is fascinating — are they using Starlink infrastructure? Video angle: The SpaceX x Anthropic connection is weird and interesting. A 60-second explainer on why AI companies need unconventional compute partners.
+Source: https://www.anthropic.com/news
+
+**PwC deploys Claude for enterprise transformation**
+One of the world's largest consulting firms is now using Claude to build technology, execute deals, and reinvent client functions. This is AI embedded in the consulting pipeline. Video angle: What does it mean when PwC uses Claude to "execute deals"? Walk through a hypothetical M&A workflow with AI assistance.
+Source: https://www.anthropic.com/news
+
+**Anthropic + Gates Foundation: $200 million partnership**
+Announced May 13. The Gates Foundation is putting serious money into Anthropic — likely focused on beneficial AI applications in global health and development. Video angle: Why is the Gates Foundation betting $200 million on one AI company? What does this signal about AI's role in solving big problems?
+Source: https://www.anthropic.com/news
+
+**Project Glasswing: AI security coalition**
+Amazon, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorgan, Linux Foundation, Microsoft, NVIDIA, and Palo Alto Networks all joined Anthropic's initiative to "secure the world's most critical software." This is an unprecedented coalition. Video angle: This is actually huge and underreported. A 60-second explainer on why all these competitors are working together on AI security.
+Source: https://www.anthropic.com/news
+
+**Hugging Face SOC 2/ISO 27001 compliance guide**
+Hugging Face published a practical guide for enterprises to comply with security standards when using their model ecosystem. This is about making open-source AI enterprise-ready. Video angle: Probably too niche for Shorts, but relevant for a longer-form piece on enterprise AI adoption barriers.
+Source: https://huggingface.co/blog
+
+**Hugging Face + JFrog Artifactory integration (changes June 2026)**
+Enterprise guide published, with changes coming next month. Video angle: Skip unless your audience is heavily enterprise/DevOps focused.
+Source: https://huggingface.co/blog
+
+TODAY'S PRIORITY
+Make content about **Claude Design** first. It's a new product, it's visual, and it's immediately testable by your audience. The hook writes itself: "Anthropic just launched a Canva competitor. Can Claude actually design?" This is the kind of news that travels fast on social, and being first with a real demo matters more than being comprehensive.
+
+TOP 3 VIDEO IDEAS TODAY
+
+1. **"I tested Claude Design so you don't have to"**
+Hook: "Anthropic just dropped a design tool. I gave it my ugliest slide deck."
+Why it works: Visual transformation content performs well, it's a new product (novelty), and the before/after format is proven. This is a clear 60-second Short.
+
+2. **"Every tech giant just agreed on one thing"**
+Hook: "Amazon, Apple, Google, Microsoft, and NVIDIA never agree on anything. Until now."
+Why it works: The Project Glasswing coalition is genuinely surprising, and the "rivals team up" narrative is inherently compelling. Great for Instagram Reels where curiosity hooks drive saves.
+
+3. **"PwC is using AI to close your company's next deal"**
+Hook: "One of the world's biggest consulting firms just handed Claude the keys to M&A."
+Why it works: This makes AI feel real and high-stakes. It's not about chatbots — it's about AI in the room where billion-dollar decisions happen. Appeals to business-curious audiences who want to understand what's actually changing.
