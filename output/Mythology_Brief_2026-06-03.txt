@@ -1,0 +1,20 @@
+MYTHOLOGY DAILY BRIEF — June 03, 2026
+(Fallback mode — add ANTHROPIC_API_KEY secret to GitHub to enable Claude-written briefs)
+
+PRIORITY TODAY: Indian Mythology
+
+TOP RECURRING HIGH-INTEREST THEMES:
+- Karna (Mahabharata) — tragic hero, loyalty, identity
+- Draupadi's humiliation — justice, dharma, divine intervention
+- Shiva as destroyer and creator — duality, cosmic balance
+- Arjuna's crisis in the Bhagavad Gita — duty vs emotion
+- Krishna's Vishwaroopa — the moment of revelation
+
+CROSS-MYTH COMPARISONS (high-interest):
+- Thunder gods: Indra (Rigveda) + Zeus (Iliad) + Thor (Poetic Edda)
+- Flood myths: Manu (Shatapatha Brahmana) + Noah + Deucalion (Hesiod)
+- Trickster figures: Narada + Loki (Prose Edda) + Hermes (Homeric Hymns)
+
+To enable full Claude-written briefings:
+1. Go to your GitHub repo → Settings → Secrets → Actions
+2. Add secret: ANTHROPIC_API_KEY = your key from console.anthropic.com
